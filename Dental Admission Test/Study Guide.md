@@ -342,22 +342,18 @@ Need to really sit down and do the math and engage, very difficult.
 # Day #38 
 
 - [ ] Read Feralis-Booster Notes Ch 5. Developmental Biology in detail and memorize only key concepts – After reviewing this chapter, try to review everything up until this point again.    
-- [ ] Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
-- [ ] Use DATBooster’s Cube Counting Generators to practice 10 questions. How si this doing
+- [x] Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
+- [ ] Use DATBooster’s Cube Counting Generators to practice 10 questions. How is this doing
 
 Day #39 
 
 - [ ]  Read DATBooster’s Organic Chemistry Notes: Ch 9. Alcohols, Ethers, and Epoxides 
-- [ ]  Watch DATBooster’s Organic Chemistry Videos: Functional Group Chemistry (6.1 - 6.10) if you are 
-having trouble with understanding the concepts in Ch 9. (Recommended) 
+- [ ]  Watch DATBooster’s Organic Chemistry Videos: Functional Group Chemistry (6.1 - 6.10) if you are having trouble with understanding the concepts in Ch 9. (Recommended) 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Alcohols, Ethers, & Epoxides 
-2025 Edition (Updated: 1/22/2025)
- DATBooster | Booster PrepTM
-18
- - [ ]  Complete Extra Reading Comprehension Practice #15 and 16 – Practice using the strategy that 
-works best for you. 
+- [ ]  Complete Extra Reading Comprehension Practice #15 and 16 – Practice using the strategy that works best for you. 
 - [ ]  Watch Quantitative Reasoning Videos: Applied Mathematics (4.8-4.11) 
 - [ ]  Complete Applied Mathematics - Question Banks 8-9 (20 questions) 
+
 Day #40 
 - [ ]  Watch DATBooster’s Biology Videos: Evolution  
 - [ ]  Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 1-16, until Animal 
@@ -454,19 +450,12 @@ TIMED conditions.
 
 # Phase 2: Practice Questions/Tests & Review 
 22
- With your first phase complete, you will now begin a general review process of the content you have 
-learned. Keep in mind, the content in this phase is not meant to be a thorough review, it’s meant to be a 
-general review. Remember, the key is to focus on breadth over depth. Using tools such as Anki decks 
-or Quizlet flashcards will be crucial to master specific subjects like Biology. Furthermore, there will be 
-more frequent practice tests, which are to be taken under TIMED conditions. While completing these 
-full-length tests, you will also continue your revision of content so your foundation stays strong. When 
-you are reviewing topics which are difficult for you, review using your notes, videos, and formula/reaction 
-sheets (if appropriate).  
-�
-� Biology Pro-Tip:  
+ With your first phase complete, you will now begin a general review process of the content you have learned. Keep in mind, the content in this phase is not meant to be a thorough review, it’s meant to be a general review. Remember, the key is to focus on breadth over depth. Using tools such as Anki decks or Quizlet flashcards will be crucial to master specific subjects like Biology. Furthermore, there will be more frequent practice tests, which are to be taken under TIMED conditions. While completing these full-length tests, you will also continue your revision of content so your foundation stays strong. When you are reviewing topics which are difficult for you, review using your notes, videos, and formula/reaction sheets (if appropriate).  
+ Biology Pro-Tip:  
 • BIO BITS: This is simply an additional tool to help you memorize content, and are completely 
 optional. Additionally, do not worry about completing the questions, as you will be able to 
 continue working on these questions in phase 3. 
+
 Day #50 
 - [ ]  Use DATBooster’s Keyhole, Top-Front-End, and Pattern Folding Question Banks to practice 15 
 questions each. Try completing these 45 questions within 35 minutes by treating it as a mini-test. 
