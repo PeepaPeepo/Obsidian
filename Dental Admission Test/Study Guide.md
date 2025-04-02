@@ -341,8 +341,7 @@ Need to really sit down and do the math and engage, very difficult.
 
 # Day #38 
 
-- [ ] Read Feralis-Booster Notes Ch 5. Developmental Biology in detail and memorize only key 
-concepts – After reviewing this chapter, try to review everything up until this point again.    
+- [ ] Read Feralis-Booster Notes Ch 5. Developmental Biology in detail and memorize only key concepts – After reviewing this chapter, try to review everything up until this point again.    
 - [ ] Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
 - [ ] Use DATBooster’s Cube Counting Generators to practice 10 questions. 
 
