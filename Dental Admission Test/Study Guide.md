@@ -345,16 +345,17 @@ Need to really sit down and do the math and engage, very difficult.
 - [x] Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
 - [x] Use DATBooster’s Cube Counting Generators to practice 10 questions. How is this doing
 
-Day #39 
+# Day #39 
 
-- [ ]  Read DATBooster’s Organic Chemistry Notes: Ch 9. Alcohols, Ethers, and Epoxides 
-- [ ]  Watch DATBooster’s Organic Chemistry Videos: Functional Group Chemistry (6.1 - 6.10) if you are having trouble with understanding the concepts in Ch 9. (Recommended) 
+- [ ]  ~~Read DATBooster’s Organic Chemistry Notes: Ch 9. Alcohols, Ethers, and Epoxides~~ 
+- [ ]  ~~Watch DATBooster’s Organic Chemistry Videos: Functional Group Chemistry (6.1 - 6.10) if you are having trouble with understanding the concepts in Ch 9. (Recommended)~~ 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Alcohols, Ethers, & Epoxides 
 - [ ]  Complete Extra Reading Comprehension Practice #15 and 16 – Practice using the strategy that works best for you. 
 - [ ]  Watch Quantitative Reasoning Videos: Applied Mathematics (4.8-4.11) 
 - [ ]  Complete Applied Mathematics - Question Banks 8-9 (20 questions) 
 
-Day #40 
+# Day #40 
+
 - [ ]  Watch DATBooster’s Biology Videos: Evolution  
 - [ ]  Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 1-16, until Animal 
 Behavior) in detail and memorize only key concepts. 
