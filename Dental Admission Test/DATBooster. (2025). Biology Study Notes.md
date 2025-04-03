@@ -754,6 +754,15 @@ Apical is outward side of cell like cilia are on it
 Lateral surface is side of cell
 Basal side is the bottom
 
+## 3.7 Cell Transport
+
+[[Passive Transport]] and [[Active Transport]], named based on if energy is required to perform action.
+[[Adenosine Triphosphate|ATP]] is the main source of work.
+[[Active Transport]] helps move substances away from where they naturally want to chill.
+[[Passive Transport]] includes [[Simple Diffusion]] and [[Facilitated Diffusion]]
+Facilitated diffusion is helped with a transmembrane transport protein
+[[Active Transport]] requires transport proteins
+[[Secondary Active Transport]] doesn't use ATP, but uses 
 # 11 Diversity of Life
 
 ## 11.1 Taxonomy Intro & Cell Types
