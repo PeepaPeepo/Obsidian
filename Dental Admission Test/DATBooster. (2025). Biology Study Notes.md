@@ -776,6 +776,11 @@ Plant cells is differenet beacuse of their cell walls
 Hypotonic solutions leads to turgidity 
 Isotonic Soluions lead to flaccidness 
 Hypertonic leads to 
+
+## 3.8 Outer Cell and Intracellular Movement
+
+Cell walls are
+
 # 11 Diversity of Life
 
 ## 11.1 Taxonomy Intro & Cell Types
