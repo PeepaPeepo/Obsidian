@@ -22,7 +22,7 @@ related to the DAT)
 
 # Day #3 
 
-- [ ]  Watch DATBooster’s Biology Videos: Cells & Organelles (stopped at 3.7)
+- [x]  Watch DATBooster’s Biology Videos: Cells & Organelles (stopped at 3.7)
 - [x]  **Read Feralis-Booster Notes Ch 1. Cell & Molecular Biology (Pages 5-11) in detail and memorize only key concepts** 
 - [x]  **Read DATBooster’s Organic Chemistry Notes: Ch 2. IUPAC Nomenclature** 
 - [ ]  Watch DATBooster’s Organic Chemistry Videos: Functional Groups & Nomenclature (2.1 - 2.9) if you are having trouble with understanding the concepts in Ch 2. (Recommended) 
@@ -39,7 +39,7 @@ related to the DAT)
 - [ ]  Watch DATBooster’s Chemistry Videos: Periodic Properties (2.1-2.4) 
 - [x]  **Read DATBooster’s Chemistry Notes: Ch 2. Periodic Properties** 
 - [x]  ==**Complete DATBooster’s Chemistry Questions Banks: Periodic Properties**== 
-- [ ]  Watch Quantitative Reasoning Videos: Algebra Part 1 (2.1 - 2.2) 
+- [ ]  ~~Watch Quantitative Reasoning Videos: Algebra Part 1 (2.1 - 2.2)~~ 
 - [x]  **Complete Algebra Part 1 - Question Banks 1-2 (20 questions) 8**
  ``
 # Day #5 
@@ -48,11 +48,11 @@ related to the DAT)
 - [ ]  Watch DATBooster’s Biology Videos: Cellular Respiration 
 - [x]  **Read Feralis-Booster Notes Ch 1. Cell & Molecular Biology (Pages 12-19) in detail and memorize only key concepts** 
 - [ ]  ~~Read DATBooster’s Organic Chemistry Notes: Ch 3. Conformations & Stereochemistry~~ 
-- [ ]  Watch DATBooster’s Organic Chemistry Videos: Conformations & Stereochemistry (3.1 - 3.7) if you are having trouble with understanding the concepts in Ch 3. (Recommended) 
+- [ ]  ~~Watch DATBooster’s Organic Chemistry Videos: Conformations & Stereochemistry (3.1 - 3.7) if you are having trouble with understanding the concepts in Ch 3. (Recommended)~~ 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Conformations & Stereochemistry 
-- [ ]  Watch DATBooster’s Angle Ranking Videos (3.1 - 3.8) 
+- [x]  Watch DATBooster’s Angle Ranking Videos (3.1 - 3.8) 
 - [x]  **Read the Angle Ranking Strategy Guide** 
-- [ ]  Use DATBooster’s Angle-Ranking Generator to practice 15 questions 
+- [x]  Use DATBooster’s Angle-Ranking Generator to practice 15 questions 
 
 # Day #6  
 
