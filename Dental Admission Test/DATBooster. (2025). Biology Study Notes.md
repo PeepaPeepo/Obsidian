@@ -767,7 +767,15 @@ Facilitated diffusion is helped with a transmembrane transport protein
 [[Endocytosis]] has three different formats: [[Phagocytosis]] which is like eating substances, [[Pinocytosis]] is like drinking and is indiscriminate. [[Receptor-Mediated Endocytosis]] which [[Clathrin Coated Pits]].
 [[Diffusion]] and [[Osmosis]] refers to solutes or solvents travelling through semi permeable membranes.
 
+Osmosis in animal cells.
+Hypo, Hyper, and iso refer to surrounding solution concentration.
+Hypotonic solutions bursts cells.
+Solution types always refer to osmosis.
 
+Plant cells is differenet beacuse of their cell walls
+Hypotonic solutions leads to turgidity 
+Isotonic Soluions lead to flaccidness 
+Hypertonic leads to 
 # 11 Diversity of Life
 
 ## 11.1 Taxonomy Intro & Cell Types
