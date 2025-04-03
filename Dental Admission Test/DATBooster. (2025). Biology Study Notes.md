@@ -1729,7 +1729,12 @@ Think about how bats and birds have similar anatomy, it might indicate that they
 ## Sources of Variation
 
 [[Mutations]] can form new alleles that can be introduced into a population.
-[[Sexual Reproduction]] can 
+[[Sexual Reproduction]] can result in randomized alleles.
+[[Diploidy]] allows for the storing of recessive genes.
+[[Outbreeding]] makes new mixtures of alleles.
+[[Balanced Polymorphism]] refers to how multiple [[Phenotypes]] can exists because sometimes they have advantages to survive.
+[[Heterozygote Advantage]] refers to how htereozyogote can be advantageous vs homozyougs
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
