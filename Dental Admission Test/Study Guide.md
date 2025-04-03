@@ -359,7 +359,7 @@ Need to really sit down and do the math and engage, very difficult.
 - [ ]  Watch DATBooster’s Biology Videos: Evolution  
 - [x]  Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 1-16, until Animal Behavior) in detail and memorize only key concepts. 
 - [x]  Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
-- [ ]  Use DATBooster’s Cube Counting Generators to practice 10 questions. 
+- [x]  Use DATBooster’s Cube Counting Generators to practice 10 questions. 
 
 # Day #41 
 
