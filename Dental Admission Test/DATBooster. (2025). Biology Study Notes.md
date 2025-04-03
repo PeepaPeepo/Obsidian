@@ -762,7 +762,12 @@ Basal side is the bottom
 [[Passive Transport]] includes [[Simple Diffusion]] and [[Facilitated Diffusion]]
 Facilitated diffusion is helped with a transmembrane transport protein
 [[Active Transport]] requires transport proteins
-[[Secondary Active Transport]] doesn't use ATP, but uses 
+[[Secondary Active Transport]] doesn't use ATP, but uses existing natural movement of things like ions. But it can be either same or anti way directions.
+[[Exocytosis]] can be triggered with increase of Ca Ions.
+[[Endocytosis]] has three different formats: [[Phagocytosis]] which is like eating substances, [[Pinocytosis]] is like drinking and is indiscriminate. [[Receptor-Mediated Endocytosis]] which [[Clathrin Coated Pits]].
+[[Diffusion]] and [[Osmosis]] refers to solutes or solvents travelling through semi permeable membranes.
+
+
 # 11 Diversity of Life
 
 ## 11.1 Taxonomy Intro & Cell Types
