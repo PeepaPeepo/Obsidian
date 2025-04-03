@@ -1,0 +1,1 @@
+Water-Soluble vitamins include [[Vitamin B]] and [[Vitamin C]]. It is not stored in fat like [[Fat-Soluble Vitamins]], and it is excreted within [[Urine]].
