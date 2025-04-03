@@ -1,3 +1,227 @@
+# 1 Introduction
+
+## 1.1 Introduction
+
+Key ideas are to **memorize**, **use active learning**, and **implement spaced repetition**. 
+The test can ask any question throughout the survey.
+**Active Learning** is activated via questions and force recall by trying to recite what notes were just taken.
+**Spaced Repetition** means to come back and review content.
+
+### Don't
+
+1. Skip learning phase of content review
+2. Don't do all bio bit question, just focus on weaknesses
+3. Don't leave biology for the last second
+4. Get discouraged by low scores
+5. Don't forget number one predictor of success which is amount of effort put in
+
+## 1.2 Scope of Biology
+
+Working from smallest unit of organization up to the planet.
+[[Atoms]] are the smallest units of matter.
+[[Molecules]] are made up of multiple atoms
+[[Organelles]] are made of many [[Molecules]]
+[[Cells]] are fundamental units of structure of function, and cells can be made of multiple organelles.
+Groups of cells start making up [[Tissues]]
+[[Tissues]] make up organs with specific organ
+[[Organs]] can make up an [[Organ Systems]]
+[[Organisms]] contain multiple [[Organ Systems]]
+Multiple organisms start making [[Populations]] in a specific area
+[[Populations]] make [[Communities]] in this context it is all the living things
+[[Ecosystems]] start including non-living components, or [[Abiotic Factors|Abiotic]] 
+[[Biosphere]] are all life on earth and places were life exists
+
+# 2. Biochemistry
+
+## 2.1 Chemical Context of Life
+
+All [[Organisms]] are made of [[Matter]], which is anything that takes up of space.
+[[Atoms]] are made of protons, neutrons, electrons.
+[[Electronegativity]]  determines its ability to attract electrons.
+Bonds can be [[Ionic Bonds]], [[Covalent Bonds]], and it is determined by difference in electronegativity
+[[Covalent Bonds]] can either [[Polar Covalent Bonds]] or [[Nonpolar Covalent Bond]].
+[[Polar Covalent Bonds]] form permanent [[Dipoles]]
+[[Hydrogen Bonds]] only occur when H is bonded to ONF, 
+This is a [[Intermolecular Forces]] between multiple permanent dipoles.
+[[Hydrogen Bonds]] play an important role within [[Deoxyribonucleic Acid]] 
+[[Van der Waals Interactions]] are weak intermolecular forces that are formed when electrons make temporary dipoles.
+
+### Summary
+
+Atoms and molecules are the basic units and can interact via intermolecular forces or bonds, whether it is ionic or covalent.
+
+## 2.2 Water
+
+Water is a highly polar molecule
+One calorie is the amount of energy to raise temperature of water by 1 1 kg
+[[Phase Diagrams]] illustrate the phases of a substance at specific pressure and temperatures
+Water as a negative phase diagram slope.
+Water has very strong [[Molecular Cohesion]] caused by Hydrogen Bonds
+[[Surface Tension]] is result of the cohesion, surface layer withstands forces that are trying to break it
+Insects can walk on water.
+[[Molecular Adhesion]] is the attraction by unlike substances
+These explains [[Capillary Action]]
+[[Transpiration]] is the process were water pulls up water via cohesion and adhesion
+
+### Forced Recall
+
+[[Water]] can do [[Hydrogen Bonds]], it has a high thermal capacity, it slightly acidic. Density decreases when frozen, creating a crystal lattice. High boiling point. Can create hydration shells. It's basically a some what universal or abundant solvent. The molecular weight to boiling point ratio is quite unique.
+
+## 2.3 Micromolecules
+
+==[[Micromolecules]] are not made in the body, minerals include inorganic ions that are used in bone development, electrochemical gradients, and component of hemoglobin==
+
+Vitamins are organic vitamins, fat or water soluble vitamins
+
+Fat-soluble vitamins are stuck in body fat that can be detrimental
+Water-Soluble vitamins are pissed out
+
+==**Vitamin B is water Soluble, and has 8 vitamins, and it functions for coenzymes or precursor to coenzymes**==
+
+==Vitamin C is water soluble, and is used for collagen. Lack of it can lead to scurvy.==
+[[Vitamin C]] is an important [[Micromolecules]] that is a part of [[Collagen]] [[Synthesis Reactions|Synthesis]].
+
+There are four fat Soluble vitamins, A is for vision and epithelium, D is for calcium levels and made when hit by sunlight, E is an anti oxidant that neutralized [[Free Radicals]] that can damage cells, K is for Blood Clotting.
+
+[[Vitamins]] are [[Micromolecules]] that cannot be easily produced by the human body and is obtained through consumption. Two major categories of vitamins are [[Water-Soluble Vitamins]] and [[Fat-Soluble Vitamins]]. Excess fat soluble vitamins can be dangerous because it can be stuck in the fat of an organism. Water soluble vitamins can be excreted via urination. 
+
+Important vitamins include A, B, C, D, E, K. I think A is for vision and skin epithelium, B is related to [[Coenzymes]], C is used in [[Collagen]], D is used in bones and calcium, E is for anti oxidants, and K is for blood clotting.
+
+## 2.4 Macromolecules
+
+[[Macromolecules]] are [[Organic Molecules]], the smallest unit is are [[Monomers]] and make [[Polymers]]
+[[Carbohydrates]]
+[[Monomers]] include [[Monosaccharides]], [[Hydrocarbons]], [[Amino Acids]], and [[Nucleotides]]
+[[Polymers]] include [[Polysaccharides]], [[Lipids]], and [[Proteins]], [[Nucleic Acids]]
+[[Dehydration Synthesis]] can combine monomers, the bonding is removing water
+[[Hydrolysis]] breaks bonds with an addition of water.
+All [[Biomolecules]] produce a water molecule from [[Dehydration Synthesis]]
+
+### Forced Recall
+
+If these are macromolecules, it includes lipids, saccharides, nucleic acids, and proteins.
+Lipids are hydrocarbons, it can be saturated or unsaturated with the presence of a pi bond.
+Saccharacrides are sugars, smallest unit is a monosachharide, to a polysacharride, It has different forms like glucose, maltose, galactose
+Nucleic acids are building blocks of rna and dna
+Proteins are made up of amino acids, about 20 of them.
+
+## 2.5 Macromolecules: Carbohydrates
+
+[[Carbohydrates]], also known as [[Carbohydrates|Saccharides]], consist of the subunit [[Monosaccharides]]. The form the larger molecule [[Polysaccharides]].
+
+[[Carbohydrates]] mostly store energy, but can be used as structure.
+[[Glycosidic Linkages|Glycosidic Bonds]] are the main bond that holds monosaccharides.
+[[Dehydration Synthesis]] happens between two monosaccharides.
+[[Disaccharides]] are made of two sugar molecules,
+[[Glucose]], [[Fructose]], and [[Galactose]] are monomers
+[[Disaccharides]] are a combination of [[Glucose]] and other types of monomers.
+Glucose + Glucose make [[Maltose]]
+Glucose + fructose make [[Sucrose]]
+==Glucose + galactose make [[Lactose]]==
+
+[[Monosaccharides]] have an $\alpha$ and $\beta$ form based on the position of the [[Hydroxyl Groups]] on carbon 1.
+Alpha position has the hydroxyl group on the lower plane, and beta is the upper plane.
+[[Glycosidic Linkages|Glycosidic Bonds]] can either be alpha or beta, and the monosaccharides need to have matching positions.
+
+[[Polysaccharides]] include [[Starch]] and [[Glycogen]] are made of [[Alpha Glucose]], and [[Cellulose]] and [[Chitin]] are made off [[Beta Glucose]]. Chitin also has nitrogen.
+
+Alpha glucose polysaccharides make branching molecules, while beta glucose makes linear molecules.
+
+Starch stores energy in plants
+Glycogen are energy storage in animals
+Cellulose are structural supports for plants
+Structural support for fungi and exoskeletons
+
+Humans can only break down alpha glucose polysaccharides.
+
+### Quiz Questions
+
+Which of the following best describes the orientation of the sugars’ -OH group when forming a beta-glycosidic bond?
+
+One $\ce{ -OH }$ is up and the other is down
+
+## 2.6 Macromolecules: Lipids
+
+[[Lipids]] have long hydrocarbon chains that made hydrophobic molecules
+Functions of lipids include insulation, storage of energy, endocrine molecules, phospholipids make cell membranes.
+Lipids are not made of monomers, they are mostly hydrocarbons.
+Lipids are just [[Hydrocarbons]]
+[[Glycerol Backbone]] combine with 
+[[Lipids]] include [[Fats|Triglycerides]], [[Phospholipids]], [[Steroids]], [[Porphyrins]]
+[[Fats|Triglycerides]] are composed of [[Glycerol Backbone]] and three [[Fatty Acids]]
+[[Fatty Acids]] can include [[Saturated Fatty Acids]] and [[Unsaturated Fatty Acids]]
+[[Glycerol]] is a three carbon Molecule
+[[Fatty Acids]] are [[Hydrocarbons]] that are terminated with a [[Carboxylic Acid Group]]
+Saturated fatty acids made dense plaques
+[[Phospholipids]] are made up of a [[Glycerol]] Head and Two Fatty acid tails
+[[Amphipathic]] describes molecules that have hydrophilic and phobic regions
+[[Steroids]] are made of rings, one of them is a pentane ring
+==[[Porphyrins]] include hemoglobin and chlorophyll==
+
+[[Cell Membrane Fluidity]] determines the stiffness of a cell membrane based on composition of membrane
+Cholesterol spreads out membranes at cold temperatures
+Unsaturated acids are incorporated in membranes 
+==Cholesterol can moderate membrane fluidity== 
+==Be careful of rushing through multiple choice questions and picking wrong answers==
+
+## 2.7 Macromolecules: Proteins
+
+Proteins are polymers of amino acids
+Humans have 20 major amino acids
+The connection makes a polypeptide
+The bond between each and peptide bond
+Monomers are made of a central carbon with carboxyl group, amino, and side chain, there is a lone hydrogen.
+Dehydration synthesis is the mechanism of bonding amino acids
+Functions of proteins include: structural roles such as collagen, enzymes catalysis, hormones, antibodies, fluid balance, acid-base balance, channel pumps, transport, and protein storage.
+Structure levels has the primary structure, which is the sequence of amino acids.
+==Secondary structures are the three d shapes such as helices and pleated sheets, **it is moderated by hydrogen bonds formed between backbone**==
+==tertiary structure is the overall proteins where the r groups interact, h bondings, ionic, disulfide== bonds, Vander walls, and hydrophilic inteactions
+Quaternary structures are formed of multiple protein structures. 
+Shape of protein determines function, denaturation breaks proteins, it can be done by strong acids or bases, light, overheat.
+Some processes are reversibles.
+
+## ==2.8 Macromolecules: Nucleic Acids==
+
+Common polymers are DNA and RNA
+Nucleic acids are made for data transfer and reading
+Monomers are nucleotides
+Nucleic acids are polymers
+Bonds are [[Phosphodiester Linkages]]
+Its another dehydration reaction between the hydroxyl group and the phosphate group thus making a phosphodiester bond
+[[Base Pairs]] are two nucleotides bonded on opposite strands
+it is held together with hydrogen bonds
+Three parts of nucleotides are nitrogenous base, phosphate group, and a ribose or deoxyribose
+The bases of nucleotides are ACG U/T
+U for RNA T for DNA
+The difference in ribose is presence of all hydroxyl groups 
+Purines have two rings, A and G
+Pyrimidines have single rings C, ==U, T==
+
+==PUR As Silver (Ag) Purine As Ag==
+CUT the PYE
+
+Structure of DNA Backbone
+
+Double Stranded Structure works with hydrogen bonds
+Pairs are AT and GC because of their compatible h bonding locations
+DNA is antiparallel and 
+5' ->3'  but the other strand goes the other way
+DNA is always AT, GC
+
+3' and 5' is referring to the carbon positions of deoxyribose
+[[Chargaff's Rule]] Total number of purines are always equal to pyrimidines
+
+### Structure of RNA
+
+==Sugar is different, Urasil replaces t in ATGC==
+==Nucleotides and nucleoside differs via phopshate==
+==Robnucleoside and Deoxynucleoside== 
+==Side and Tide==
+==Ribo and Deoxy== 
+
+==[[Cytosine]] and [[Guanine]] base pair bonds require more energy to break due to greater amount of hydrogen bonds==
+
+
 # Cells and Organelles (5)
 
 ### 2.8 Cell Theory
@@ -267,6 +491,14 @@ Large Km is a low binding affinity
 Labor Contractions During Birth.
 [[Positive Feedback]] occurs when products of reaction triggers more production. Positive word indicates additional formation.
 
+## 4.5 Temperature Coefficient Q10
+
+How fast does a reaction proceed when temp is increased by 10?
+$Q_{10}=\left( \frac{K_{2}}{K_{1}} \right)^{10/T_{2}-T_{1}}$
+$Q_{10}=\left( \frac{K_{2}}{K_{1}} \right)$ when working with temperatures of 10.
+
+
+
 
 
 # Cellular Respiration
@@ -413,230 +645,6 @@ Continue from Question 16.
 
 ### 6.1 Chloroplast Anatomy
 
-[[]]
-
-# 1 Introduction
-
-## 1.1 Introduction
-
-Key ideas are to **memorize**, **use active learning**, and **implement spaced repetition**. 
-The test can ask any question throughout the survey.
-**Active Learning** is activated via questions and force recall by trying to recite what notes were just taken.
-**Spaced Repetition** means to come back and review content.
-
-### Don't
-
-1. Skip learning phase of content review
-2. Don't do all bio bit question, just focus on weaknesses
-3. Don't leave biology for the last second
-4. Get discouraged by low scores
-5. Don't forget number one predictor of success which is amount of effort put in
-
-## 1.2 Scope of Biology
-
-Working from smallest unit of organization up to the planet.
-[[Atoms]] are the smallest units of matter.
-[[Molecules]] are made up of multiple atoms
-[[Organelles]] are made of many [[Molecules]]
-[[Cells]] are fundamental units of structure of function, and cells can be made of multiple organelles.
-Groups of cells start making up [[Tissues]]
-[[Tissues]] make up organs with specific organ
-[[Organs]] can make up an [[Organ Systems]]
-[[Organisms]] contain multiple [[Organ Systems]]
-Multiple organisms start making [[Populations]] in a specific area
-[[Populations]] make [[Communities]] in this context it is all the living things
-[[Ecosystems]] start including non-living components, or [[Abiotic Factors|Abiotic]] 
-[[Biosphere]] are all life on earth and places were life exists
-
-# 2. Biochemistry
-
-## 2.1 Chemical Context of Life
-
-All [[Organisms]] are made of [[Matter]], which is anything that takes up of space.
-[[Atoms]] are made of protons, neutrons, electrons.
-[[Electronegativity]]  determines its ability to attract electrons.
-Bonds can be [[Ionic Bonds]], [[Covalent Bonds]], and it is determined by difference in electronegativity
-[[Covalent Bonds]] can either [[Polar Covalent Bonds]] or [[Nonpolar Covalent Bond]].
-[[Polar Covalent Bonds]] form permanent [[Dipoles]]
-[[Hydrogen Bonds]] only occur when H is bonded to ONF, 
-This is a [[Intermolecular Forces]] between multiple permanent dipoles.
-[[Hydrogen Bonds]] play an important role within [[Deoxyribonucleic Acid]] 
-[[Van der Waals Interactions]] are weak intermolecular forces that are formed when electrons make temporary dipoles.
-
-### Summary
-
-Atoms and molecules are the basic units and can interact via intermolecular forces or bonds, whether it is ionic or covalent.
-
-## 2.2 Water
-
-Water is a highly polar molecule
-One calorie is the amount of energy to raise temperature of water by 1 1 kg
-[[Phase Diagrams]] illustrate the phases of a substance at specific pressure and temperatures
-Water as a negative phase diagram slope.
-Water has very strong [[Molecular Cohesion]] caused by Hydrogen Bonds
-[[Surface Tension]] is result of the cohesion, surface layer withstands forces that are trying to break it
-Insects can walk on water.
-[[Molecular Adhesion]] is the attraction by unlike substances
-These explains [[Capillary Action]]
-[[Transpiration]] is the process were water pulls up water via cohesion and adhesion
-
-### Forced Recall
-
-[[Water]] can do [[Hydrogen Bonds]], it has a high thermal capacity, it slightly acidic. Density decreases when frozen, creating a crystal lattice. High boiling point. Can create hydration shells. It's basically a some what universal or abundant solvent. The molecular weight to boiling point ratio is quite unique.
-
-## 2.3 Micromolecules
-
-==[[Micromolecules]] are not made in the body, minerals include inorganic ions that are used in bone development, electrochemical gradients, and component of hemoglobin==
-
-Vitamins are organic vitamins, fat or water soluble vitamins
-
-Fat-soluble vitamins are stuck in body fat that can be detrimental
-Water-Soluble vitamins are pissed out
-
-==**Vitamin B is water Soluble, and has 8 vitamins, and it functions for coenzymes or precursor to coenzymes**==
-
-==Vitamin C is water soluble, and is used for collagen. Lack of it can lead to scurvy.==
-[[Vitamin C]] is an important [[Micromolecules]] that is a part of [[Collagen]] [[Synthesis Reactions|Synthesis]].
-
-There are four fat Soluble vitamins, A is for vision and epithelium, D is for calcium levels and made when hit by sunlight, E is an anti oxidant that neutralized [[Free Radicals]] that can damage cells, K is for Blood Clotting.
-
-[[Vitamins]] are [[Micromolecules]] that cannot be easily produced by the human body and is obtained through consumption. Two major categories of vitamins are [[Water-Soluble Vitamins]] and [[Fat-Soluble Vitamins]]. Excess fat soluble vitamins can be dangerous because it can be stuck in the fat of an organism. Water soluble vitamins can be excreted via urination. 
-
-Important vitamins include A, B, C, D, E, K. I think A is for vision and skin epithelium, B is related to [[Coenzymes]], C is used in [[Collagen]], D is used in bones and calcium, E is for anti oxidants, and K is for blood clotting.
-
-## 2.4 Macromolecules
-
-[[Macromolecules]] are [[Organic Molecules]], the smallest unit is are [[Monomers]] and make [[Polymers]]
-[[Carbohydrates]]
-[[Monomers]] include [[Monosaccharides]], [[Hydrocarbons]], [[Amino Acids]], and [[Nucleotides]]
-[[Polymers]] include [[Polysaccharides]], [[Lipids]], and [[Proteins]], [[Nucleic Acids]]
-[[Dehydration Synthesis]] can combine monomers, the bonding is removing water
-[[Hydrolysis]] breaks bonds with an addition of water.
-All [[Biomolecules]] produce a water molecule from [[Dehydration Synthesis]]
-
-### Forced Recall
-
-If these are macromolecules, it includes lipids, saccharides, nucleic acids, and proteins.
-Lipids are hydrocarbons, it can be saturated or unsaturated with the presence of a pi bond.
-Saccharacrides are sugars, smallest unit is a monosachharide, to a polysacharride, It has different forms like glucose, maltose, galactose
-Nucleic acids are building blocks of rna and dna
-Proteins are made up of amino acids, about 20 of them.
-
-## 2.5 Macromolecules: Carbohydrates
-
-[[Carbohydrates]], also known as [[Carbohydrates|Saccharides]], consist of the subunit [[Monosaccharides]]. The form the larger molecule [[Polysaccharides]].
-
-[[Carbohydrates]] mostly store energy, but can be used as structure.
-[[Glycosidic Linkages|Glycosidic Bonds]] are the main bond that holds monosaccharides.
-[[Dehydration Synthesis]] happens between two monosaccharides.
-[[Disaccharides]] are made of two sugar molecules,
-[[Glucose]], [[Fructose]], and [[Galactose]] are monomers
-[[Disaccharides]] are a combination of [[Glucose]] and other types of monomers.
-Glucose + Glucose make [[Maltose]]
-Glucose + fructose make [[Sucrose]]
-==Glucose + galactose make [[Lactose]]==
-
-[[Monosaccharides]] have an $\alpha$ and $\beta$ form based on the position of the [[Hydroxyl Groups]] on carbon 1.
-Alpha position has the hydroxyl group on the lower plane, and beta is the upper plane.
-[[Glycosidic Linkages|Glycosidic Bonds]] can either be alpha or beta, and the monosaccharides need to have matching positions.
-
-[[Polysaccharides]] include [[Starch]] and [[Glycogen]] are made of [[Alpha Glucose]], and [[Cellulose]] and [[Chitin]] are made off [[Beta Glucose]]. Chitin also has nitrogen.
-
-Alpha glucose polysaccharides make branching molecules, while beta glucose makes linear molecules.
-
-Starch stores energy in plants
-Glycogen are energy storage in animals
-Cellulose are structural supports for plants
-Structural support for fungi and exoskeletons
-
-Humans can only break down alpha glucose polysaccharides.
-
-### Quiz Questions
-
-Which of the following best describes the orientation of the sugars’ -OH group when forming a beta-glycosidic bond?
-
-One $\ce{ -OH }$ is up and the other is down
-
-## 2.6 Macromolecules: Lipids
-
-[[Lipids]] have long hydrocarbon chains that made hydrophobic molecules
-Functions of lipids include insulation, storage of energy, endocrine molecules, phospholipids make cell membranes.
-Lipids are not made of monomers, they are mostly hydrocarbons.
-Lipids are just [[Hydrocarbons]]
-[[Glycerol Backbone]] combine with 
-[[Lipids]] include [[Fats|Triglycerides]], [[Phospholipids]], [[Steroids]], [[Porphyrins]]
-[[Fats|Triglycerides]] are composed of [[Glycerol Backbone]] and three [[Fatty Acids]]
-[[Fatty Acids]] can include [[Saturated Fatty Acids]] and [[Unsaturated Fatty Acids]]
-[[Glycerol]] is a three carbon Molecule
-[[Fatty Acids]] are [[Hydrocarbons]] that are terminated with a [[Carboxylic Acid Group]]
-Saturated fatty acids made dense plaques
-[[Phospholipids]] are made up of a [[Glycerol]] Head and Two Fatty acid tails
-[[Amphipathic]] describes molecules that have hydrophilic and phobic regions
-[[Steroids]] are made of rings, one of them is a pentane ring
-==[[Porphyrins]] include hemoglobin and chlorophyll==
-
-[[Cell Membrane Fluidity]] determines the stiffness of a cell membrane based on composition of membrane
-Cholesterol spreads out membranes at cold temperatures
-Unsaturated acids are incorporated in membranes 
-==Cholesterol can moderate membrane fluidity== 
-==Be careful of rushing through multiple choice questions and picking wrong answers==
-
-## 2.7 Macromolecules: Proteins
-
-Proteins are polymers of amino acids
-Humans have 20 major amino acids
-The connection makes a polypeptide
-The bond between each and peptide bond
-Monomers are made of a central carbon with carboxyl group, amino, and side chain, there is a lone hydrogen.
-Dehydration synthesis is the mechanism of bonding amino acids
-Functions of proteins include: structural roles such as collagen, enzymes catalysis, hormones, antibodies, fluid balance, acid-base balance, channel pumps, transport, and protein storage.
-Structure levels has the primary structure, which is the sequence of amino acids.
-==Secondary structures are the three d shapes such as helices and pleated sheets, **it is moderated by hydrogen bonds formed between backbone**==
-==tertiary structure is the overall proteins where the r groups interact, h bondings, ionic, disulfide== bonds, Vander walls, and hydrophilic inteactions
-Quaternary structures are formed of multiple protein structures. 
-Shape of protein determines function, denaturation breaks proteins, it can be done by strong acids or bases, light, overheat.
-Some processes are reversibles.
-
-## ==2.8 Macromolecules: Nucleic Acids==
-
-Common polymers are DNA and RNA
-Nucleic acids are made for data transfer and reading
-Monomers are nucleotides
-Nucleic acids are polymers
-Bonds are [[Phosphodiester Linkages]]
-Its another dehydration reaction between the hydroxyl group and the phosphate group thus making a phosphodiester bond
-[[Base Pairs]] are two nucleotides bonded on opposite strands
-it is held together with hydrogen bonds
-Three parts of nucleotides are nitrogenous base, phosphate group, and a ribose or deoxyribose
-The bases of nucleotides are ACG U/T
-U for RNA T for DNA
-The difference in ribose is presence of all hydroxyl groups 
-Purines have two rings, A and G
-Pyrimidines have single rings C, ==U, T==
-
-==PUR As Silver (Ag) Purine As Ag==
-CUT the PYE
-
-Structure of DNA Backbone
-
-Double Stranded Structure works with hydrogen bonds
-Pairs are AT and GC because of their compatible h bonding locations
-DNA is antiparallel and 
-5' ->3'  but the other strand goes the other way
-DNA is always AT, GC
-
-3' and 5' is referring to the carbon positions of deoxyribose
-[[Chargaff's Rule]] Total number of purines are always equal to pyrimidines
-
-### Structure of RNA
-
-==Sugar is different, Urasil replaces t in ATGC==
-==Nucleotides and nucleoside differs via phopshate==
-==Robnucleoside and Deoxynucleoside== 
-==Side and Tide==
-==Ribo and Deoxy== 
-
-==[[Cytosine]] and [[Guanine]] base pair bonds require more energy to break due to greater amount of hydrogen bonds==
 
 # 3 Cells and Organelles
 
