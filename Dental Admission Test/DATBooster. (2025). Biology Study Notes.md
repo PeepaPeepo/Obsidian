@@ -1703,9 +1703,20 @@ Evolution is the change of [[Allele Frequencies]] within a population over time.
 [[Microevolution]] is the change of [[Allele Frequencies]] due to things like genetic mutation, selection, gene flow, gene drift, and non random mating. ==This didn't mention how fast it occurs==
 [[Macroevolution]] refers to the pattern of changes of groups of related species over time.
 Micro evolution focuses on a single population, and macro focuses on a group of related species.
+
+## Darwin's Theory
+
 [[Theory of Natural Selection|Natural Selection]] is the concept that the survival of the fittest allows for allele frequencies to increase or decrease based on the environment.
 
+## Evidence for Evolution
 
+[[Biogeography]] describes the distribution of species
+[[Embryology]] establishes the relation of species based on how similar the embryo is developed.
+[[Comparative Anatomy]] look at how the structures of species determine their evolutionary relationship.
+
+Think about how bats and birds have similar anatomy, it might indicate that they have a common ancestor. This is an example of [[Homologous Structures]]
+
+[[Analogous Structures]] refer to how similar species can be found between two non related species.
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
