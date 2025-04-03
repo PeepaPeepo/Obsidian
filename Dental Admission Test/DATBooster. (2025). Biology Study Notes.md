@@ -1,8 +1,4 @@
-# Chapter 1: Cell & Molecular Biology
-
-## Biochemistry
-
-## Cells and Organelles (5)
+# Cells and Organelles (5)
 
 ### 2.8 Cell Theory
 
@@ -181,7 +177,7 @@ Intracellular transport is accomplished with microtubules and motor proteins.
 Motor proteins include [[Kinesin]] and [[Dynein]]
 [[Cyclosis]]  is streaming movement of cytoplasm.
 
-## Biothermodynamics
+# Biothermodynamics
 
 ### 4.1 Introduction to Metabolism and ATP
 
@@ -273,7 +269,7 @@ Labor Contractions During Birth.
 
 
 
-## Cellular Respiration
+# Cellular Respiration
 
 ### 5.1 Mitochondria Anatomy
 
@@ -413,7 +409,7 @@ The products of [[Glycolysis]] is 2 [[Nicotinamide Adenine Dinucleotide|NADH]], 
 
 Continue from Question 16.
 
-## Photosynthesis
+# Photosynthesis
 
 ### 6.1 Chloroplast Anatomy
 

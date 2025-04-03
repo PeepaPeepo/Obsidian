@@ -44,7 +44,7 @@ related to the DAT)
  ``
 # Day #5 
 
-- [ ]  Watch DATBooster’s Biology Videos: Biothermodynamics 
+- [x]  Watch DATBooster’s Biology Videos: Biothermodynamics 
 - [ ]  Watch DATBooster’s Biology Videos: Cellular Respiration 
 - [x]  **Read Feralis-Booster Notes Ch 1. Cell & Molecular Biology (Pages 12-19) in detail and memorize only key concepts** 
 - [ ]  ~~Read DATBooster’s Organic Chemistry Notes: Ch 3. Conformations & Stereochemistry~~ 
@@ -59,9 +59,9 @@ related to the DAT)
 - [ ]  Watch DATBooster’s Chemistry Videos: Atomic & Molecular Structure (3.1 - 3.8) 
 - [ ]  **Read DATBooster’s Chemistry Notes: Ch 3: Atomic & Molecular Structure** 
 - [ ]  Complete DATBooster’s Chemistry Questions Banks: Atomic & Molecular Structure 
-- [ ]  **Watch Reading Comprehension Videos: The Basics (1.4 - 1.6)** 
-- [ ]  **Complete Extra Reading Comprehension Practice #2 – Try different strategies to see which works best for you** 
-- [ ] Read Recommended Reading Article #2 – Try to read this article for 4 minutes and see how much information you can retain 
+- [x]  **Watch Reading Comprehension Videos: The Basics (1.4 - 1.6)** 
+- [x]  **Complete Extra Reading Comprehension Practice #2 – Try different strategies to see which works best for you** 
+- [ ] ~~Read Recommended Reading Article #2 – Try to read this article for 4 minutes and see how much information you can retain~~ 
 - [ ]  **Watch Quantitative Reasoning Videos: Algebra Part 1 (2.3 - 2.4)** 
 - [ ]  **Complete Algebra Part 1 - Question Banks 3-4 (20 questions)** 
 
