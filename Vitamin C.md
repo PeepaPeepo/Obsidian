@@ -1,1 +1,1 @@
-Vitamin C is one of the [[Water-Soluble Vitamins]] and is important for [[]]
+Vitamin C is one of the [[Water-Soluble Vitamins]] and is important for [[Collagen]] [[Synthesis Reactions|Synthesis]], lacking of the vitamin leads to scurvy.
