@@ -505,6 +505,10 @@ Kinase transfer ATp
 Phopshate removes phosphate
 [[Transferase]] tranasfers functional groups
 [[Hydrolase]] breaks shit down
+Tyrypsin, Pepsin, and chymotrypsin are odd balls that are peptidases
+[[Synthase]] makes stuff
+[[Ligases]] liagtes or seals things together
+[[Endonuclease]] and [[Exonucleases]] breaks either inline or on 3' or 5' end.
 
 
 # Cellular Respiration

@@ -45,7 +45,7 @@ related to the DAT)
 # Day #5 
 
 - [x]  Watch DATBooster’s Biology Videos: Biothermodynamics 
-- [ ]  Watch DATBooster’s Biology Videos: Cellular Respiration 
+- [x]  Watch DATBooster’s Biology Videos: Cellular Respiration 
 - [x]  **Read Feralis-Booster Notes Ch 1. Cell & Molecular Biology (Pages 12-19) in detail and memorize only key concepts** 
 - [ ]  ~~Read DATBooster’s Organic Chemistry Notes: Ch 3. Conformations & Stereochemistry~~ 
 - [ ]  ~~Watch DATBooster’s Organic Chemistry Videos: Conformations & Stereochemistry (3.1 - 3.7) if you are having trouble with understanding the concepts in Ch 3. (Recommended)~~ 
@@ -62,8 +62,8 @@ related to the DAT)
 - [x]  **Watch Reading Comprehension Videos: The Basics (1.4 - 1.6)** 
 - [x]  **Complete Extra Reading Comprehension Practice #2 – Try different strategies to see which works best for you** 
 - [ ] ~~Read Recommended Reading Article #2 – Try to read this article for 4 minutes and see how much information you can retain~~ 
-- [ ]  **Watch Quantitative Reasoning Videos: Algebra Part 1 (2.3 - 2.4)** 
-- [ ]  **Complete Algebra Part 1 - Question Banks 3-4 (20 questions)** 
+- [x]  **Watch Quantitative Reasoning Videos: Algebra Part 1 (2.3 - 2.4)** 
+- [x]  **Complete Algebra Part 1 - Question Banks 3-4 (20 questions)** 
 
 # Day #7 – Catch Up Day 
 
@@ -77,13 +77,13 @@ information. Focus on topics you feel you need the most practice in.
 - [ ]  Watch DATBooster’s Biology Videos: Photosynthesis 
 - [ ]  Watch DATBooster’s Biology Videos: Cell Division 
 - [ ]  **Read Feralis-Booster Notes Ch 1. Cell & Molecular Biology (Pages 20-28) in detail and memorize only key concepts – After reviewing this chapter, try to review everything up until this point again.**              
-- [ ]  Answer Bio Bits (optional) - do as many as you can to solidify your knowledge and memorize 
-information. Focus on topics you feel you need the most practice in. 
-- [ ]  Watch DATBooster’s Hole Punching Videos (4.1 - 4.8)  
-- [ ]  **Read the Hole Punching Strategy Guide** 
-- [ ]  Use DATBooster’s Hole Punching Generators to practice 15 questions 
+- [ ]  Answer Bio Bits (optional) - do as many as you can to solidify your knowledge and memorize information. Focus on topics you feel you need the most practice in. 
+- [x]  Watch DATBooster’s Hole Punching Videos (4.1 - 4.8)  
+- [x]  **Read the Hole Punching Strategy Guide** 
+- [x]  Use DATBooster’s Hole Punching Generators to practice 15 questions 
 
 # Day #9 
+
 - [ ]  Watch DATBooster’s Chemistry Videos: Stoichiometry & General Concepts (4.1 - 4.8) 
 - [ ]  **Read DATBooster’s Chemistry Notes: Ch 4: Stoichiometry & General Concepts** 
 - [ ]  **Complete DATBooster’s Chemistry Questions Banks: Stoichiometry & General Concepts** 
