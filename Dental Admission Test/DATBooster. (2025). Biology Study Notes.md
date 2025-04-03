@@ -497,8 +497,14 @@ How fast does a reaction proceed when temp is increased by 10?
 $Q_{10}=\left( \frac{K_{2}}{K_{1}} \right)^{10/T_{2}-T_{1}}$
 $Q_{10}=\left( \frac{K_{2}}{K_{1}} \right)$ when working with temperatures of 10.
 
+# 4.6 Enzyme Nomenclature
 
-
+Anything that ends with -ase is a enzyme protein
+[[Kinases]] and [[Phosphatase]] are main
+Kinase transfer ATp
+Phopshate removes phosphate
+[[Transferase]] tranasfers functional groups
+[[Hydrolase]] breaks shit down
 
 
 # Cellular Respiration
