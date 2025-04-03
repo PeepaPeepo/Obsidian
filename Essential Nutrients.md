@@ -1,0 +1,1 @@
+Essential nutrients are any substances or that body cannot readily produced without getting it from outside. This can include [[Vitamins]] and some specific [[Amino Acids]] and other [[Minerals]] like Calcium and Potassium in their Ion forms.
