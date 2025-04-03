@@ -1,0 +1,1 @@
+ [[Competitive Exclusion]] is the theory or hypothesis that two species of [[Populations]] or of the same population cannot coexist forever when competing for the same limited resource.

@@ -1,0 +1,1 @@
+[[Transformation]] of [[Bacteria]] is the incorporation of [[Deoxyribonucleic Acid|DNA]] from its surroundings. It can be utilized to introduce [[Deoxyribonucleic Acid|DNA]] that gives directions to express different [[Proteins]]

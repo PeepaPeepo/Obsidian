@@ -1,0 +1,1 @@
+[[Convalescent Carriers]] are individuals that have reached [[Stage of Recovery Disability or Death]] of [[Natural History of Disease]], but still have the agent and are able to spread it others. Some diseases can be spread even after a year past recovery, those who pass that threshold are [[Chronic Carriers]]

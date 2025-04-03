@@ -1,0 +1,1 @@
+[[Diplomonads]] is one of the three [[Clades]] of [[Excavata]]. Greek for "two units", organisms from this clade have two [[Cell Nucleus|Cell Nuclei]].

@@ -1,0 +1,1 @@
+Atoms allow to have more than 8 [[Electrons]] and occurs with [[Elements]] starting after Na

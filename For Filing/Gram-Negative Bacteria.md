@@ -1,0 +1,1 @@
+[[Gram-Negative Bacteria]] typically have [[Cell Walls]] that lack [[Peptidoglycan]], but still are compromised of [[Polysaccharides]] and [[Proteins]] such as [[Lipopolysaccharides]].

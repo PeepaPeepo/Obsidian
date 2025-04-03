@@ -1,0 +1,1 @@
+A [[Larva]] is a sexually immature form of an animal that is morphologically different from the Adult form. This does not apply to humans. The transition from larval to adult form is known as [[Metamorphosis]].

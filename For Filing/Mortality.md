@@ -1,0 +1,1 @@
+Mortality in the sense of epidemiology or public health is describing death in populations or being subject to death.

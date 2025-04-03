@@ -1,0 +1,1 @@
+[[Realized Niche]] is the actual utilized niche used by [[Organisms]], they can be [[Fundamental Niche]] or just a new niche they found. 

@@ -1,0 +1,1 @@
+[[Cell Walls]] of [[Prokaryotes]] maintains the shape and protects cell from [[Hypotonic]] environments.

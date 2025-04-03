@@ -1,0 +1,1 @@
+[[Megasporophylls]] are [[Sporophylls]] that produce [[Megasporangia]] which form female [[Gametophytes]].

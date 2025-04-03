@@ -1,0 +1,1 @@
+[[Fimbriae]] are appendages that surround a [[Cell Walls]] and allows organisms to attach to other things.

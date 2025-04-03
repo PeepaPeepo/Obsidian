@@ -1,0 +1,1 @@
+[[Somatostatin]] is released by the [[Pancreas]] and it inhibits [[Insulin]] and [[Glucagon]].

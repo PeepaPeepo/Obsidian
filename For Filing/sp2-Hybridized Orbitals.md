@@ -1,0 +1,1 @@
+Three [[sp2-Hybridized Orbitals]] occur in a carbon atom with one $p$.

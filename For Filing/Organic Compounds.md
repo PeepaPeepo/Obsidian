@@ -1,0 +1,1 @@
+[[Organic Compounds]] are [[Compounds]] that contain [[Carbon]] [[Atoms]]

@@ -1,0 +1,1 @@
+[[Dynamic Equilibrium]] occurs when the forward and reverse process happens at the same [[Rate of Chemical Reactions]], and is reached when concentrations of products and reactants balance out.

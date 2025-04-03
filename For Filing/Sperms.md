@@ -1,0 +1,1 @@
+[[Sperms]] are [[Haploid]] [[Cells]] produced my [[Male]] [[Organs]]. Typically [[Flagella|Flagellated]] it can move around and seek its counter part [[Eggs]] to fertilize. When fertilized, the combination forms [[Zygotes]].

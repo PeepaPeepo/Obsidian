@@ -1,0 +1,1 @@
+[[Sporophyte]], greek for spore and plant, produces spores in [[Multicellular Organisms|Multicelluar]] [[Organs]] called [[Sporangia]], spore walls contain [[Sporopollenin]]

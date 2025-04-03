@@ -1,0 +1,1 @@
+[[Phylum Monilophyta]] is a clade of [[Seedless Vascular Plants]] that includes [[Ferns]], [[Horsetails]], [[Whisk Ferns]], and relatives.

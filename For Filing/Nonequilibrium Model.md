@@ -1,0 +1,1 @@
+[[Nonequilibrium Model]] states that [[Communities]] change over time when exposed to [[Disturbances]]

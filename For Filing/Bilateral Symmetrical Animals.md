@@ -1,0 +1,1 @@
+[[Bilateral Symmetrical Animals]] are often motile and have a [[Nervous System]]. Bilateral animals have a head and tail end, dorsal and ventral side, and left and right side. Most often brains are on the [[Anterior]] side.

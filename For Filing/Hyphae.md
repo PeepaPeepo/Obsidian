@@ -1,0 +1,1 @@
+[[Hyphae]] are filaments that grow from [[Multicellular Organisms|Multicelluar]] [[Fungi]] and it secretes [[Enzymes]] that can break down organic matter. I then absorbs nutrients after decomposition. 

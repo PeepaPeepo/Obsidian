@@ -1,0 +1,1 @@
+[[Cleavage]] is a process in early embryonic development where [[Zygotes]] undergo about three [[Mitotic Phase]] [[Cell Division]] to from a hollow ball called a [[Blastula]]. 

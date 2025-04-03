@@ -1,0 +1,1 @@
+[[Sporopollenin]] is [[Polymers]] that coats [[Charophytes]] and prevents the dehydration of [[Zygotes]].

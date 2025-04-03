@@ -1,0 +1,1 @@
+[[Nutritional Modes]] are the methods [[Organisms]] obtain and use [[Nutrients]]. The two primary modes are [[Autotrophs|Autotrophic]] and [[Heterotrophs|Heterotrophic]].

@@ -1,0 +1,1 @@
+[[Collision Theory]] states that [[Chemical Reactions]] occur when [[Atoms]] or [[Molecules]] collide with enough [[Energy]] to surpass its [[Free Energy of Activation|Activation Barrier]]. Variables that affect collision theory can be amount of molecules, [[Temperature]], and [[Pressure]].

@@ -1,0 +1,1 @@
+Lifeless areas under go [[Primary Succession]] where the first inhibitors would be [[Prokaryotes]], [[Protists]] then something like [[Mosses]] and [[Lichen]]. The process takes a very long time.

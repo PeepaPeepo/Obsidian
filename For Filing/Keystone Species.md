@@ -1,0 +1,1 @@
+[[Keystone Species]] are do not have a high [[Relative Abundance]], but make a huge impact. This can be [[Species]] that moderates the population of other invasive or outcompeting species.

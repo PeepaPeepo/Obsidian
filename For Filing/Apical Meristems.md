@@ -1,0 +1,1 @@
+[[Apical Meristems]] are localized areas of a [[Cell Division]] at the tips of [[Roots]] and [[Shoots]]. It provides advancement to acquire more resources. 

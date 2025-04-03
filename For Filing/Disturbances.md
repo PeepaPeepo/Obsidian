@@ -1,0 +1,1 @@
+[[Disturbances]] can be natural disasters or human activities that affect [[Communities]] [[Organisms]]. Following disturbances can be [[Primary Succession]] or [[Secondary Succession]].

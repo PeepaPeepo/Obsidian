@@ -1,0 +1,1 @@
+[[Ecological Succession]] occur when an area undergoes [[Disturbances]] and unoccupied niches are filled with new [[Species]].

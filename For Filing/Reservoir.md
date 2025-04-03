@@ -1,0 +1,1 @@
+[[Reservoir]] is a habitat where [[Agents]] can live and multiply. This definite implies that a [[Host]] can become one after infection and incubation. Types of reservoirs can include: Symptomatic cases, carrier (inapparent, incubatory, convalescent), animals, inanimate objects (food, soil, air, matter?).

@@ -1,0 +1,1 @@
+[[Cryptic Coloration]] is camouflaged visuals that help animals from being detected.

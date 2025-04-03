@@ -1,0 +1,1 @@
+A cell targets a neighboring cell through a [[Gap Junctions]]

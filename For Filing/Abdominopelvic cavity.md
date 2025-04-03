@@ -1,0 +1,1 @@
+An [[Anterior body cavity]] that is composed of the [[Abdominal Cavity]], [[Pelvic Cavity]], and [[Peritoneal Cavity]]

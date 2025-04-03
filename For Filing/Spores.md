@@ -1,0 +1,1 @@
+[[Spores]] are typically [[Diploid]]

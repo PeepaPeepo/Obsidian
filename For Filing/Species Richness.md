@@ -1,0 +1,1 @@
+[[Species Richness]] is a component of [[Species Diversity]] and indicates how many [[Species]] exist in an area. 

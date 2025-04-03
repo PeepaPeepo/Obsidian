@@ -1,0 +1,1 @@
+[[Free-fall]] is an object falling without [[Air Resistance]] or [[Friction]]

@@ -1,0 +1,2 @@
+- Summarized [[Observations]] by Russian Chemist [[Dmitri Mendeleev]]
+- Elements arranged by relative mass repeat certain properties periodically

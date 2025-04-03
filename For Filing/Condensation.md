@@ -1,0 +1,1 @@
+[[Condensation]] of a vapor results in a substance changing from a vapor to a [[Liquids]] and it releases heat as a by product. The heat can be intense enough to cause burns.

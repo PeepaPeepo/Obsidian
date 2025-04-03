@@ -1,0 +1,1 @@
+[[Hox Genes]] are regulatory genes that control expression of [[Genes]] that influence [[Morphology]]. Simple [[Organisms]] have less [[Hox Genes]], and increased amounts of sets appear within [[Chordata]], especially within [[Vertebrata]].

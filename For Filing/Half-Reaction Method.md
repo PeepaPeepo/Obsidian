@@ -1,0 +1,1 @@
+[[Half-Reaction Method]] is process to balance [[Oxidation Reduction Reactions|Redox Reactions]]. The typical workflow is to separate [[Chemical Formulas]] based on if reagent is being [[Oxidation Reduction Reactions|Reduced]] or [[Oxidation Reduction Reactions|Oxidized]]. 

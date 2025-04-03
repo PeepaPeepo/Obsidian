@@ -1,0 +1,1 @@
+[[Heteroatoms]] are atoms other than carbon and hydrogen

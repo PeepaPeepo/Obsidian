@@ -1,0 +1,1 @@
+[[Elapsed Time]], $\ce{ \Delta t }$, is the difference between ending time and beginning time.

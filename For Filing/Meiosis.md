@@ -1,0 +1,1 @@
+[[Meiosis]] is a type of [[Cell Division]] in sexually reproducing organisms that reduces the number of [[Chromosomes]] in [[Gametes]].

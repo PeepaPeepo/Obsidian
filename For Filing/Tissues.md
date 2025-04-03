@@ -1,0 +1,1 @@
+[[Tissues]] are groups of specialized [[Cells]] with specialized function. [[Tissues]] are organized into [[Organs]] which can compose [[Organ Systems]]. Examples include [[Muscle Tissue]] and [[Nervous Tissue]] that are unique to animals. 

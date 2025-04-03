@@ -1,0 +1,3 @@
+[[Commensalism]] is a form of [[Positive Interactions]] within [[Interspecific Interactions]] where one party benefits from another without harm. This can lead to the conversion to [[Mutualism]] where both parties benefit from each other.
+
+Examples include plants that thrive in shadier environments and live under trees, but the tree's do not benefit. It may lead to mutualism if the plant provides nutrients or anything that helps the tree.

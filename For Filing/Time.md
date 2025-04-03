@@ -1,0 +1,1 @@
+[[Time]] is change or interval over which change occurs. It can be change of numbers of a clock, number of heart beats, etc.

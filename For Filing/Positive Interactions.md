@@ -1,0 +1,1 @@
+[[Positive Interactions]] is a form of [[Interspecific Interactions]] were one or both parties benefit without any harm. This can be [[Commensalism]] or [[Mutualism]].

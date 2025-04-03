@@ -1,0 +1,1 @@
+[[Resource Partitioning]] is the sectioning of [[Ecological Niche]] that allows different [[Species]] to coexist in the same area.

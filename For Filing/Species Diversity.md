@@ -1,0 +1,1 @@
+[[Species Diversity]] is the variety of [[Species]] within in an area. It has two components: [[Species Richness]] and [[Relative Abundance]]

@@ -1,0 +1,1 @@
+[[Capsule]] is the sticky layer around the [[Cell Walls]] of [[Bacteria]]

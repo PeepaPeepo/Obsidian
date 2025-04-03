@@ -1,0 +1,1 @@
+[[Spirochetes]] are [[Bacteria]] that have a helical shape, [[Gram-Negative]], and [[Heterotrophs|Heterotrophic]]. Has rotating internal filaments. Examples include *[[Treponema palldium]]* that causes [[Syphilis]].

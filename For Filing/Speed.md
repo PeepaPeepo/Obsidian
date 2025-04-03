@@ -1,0 +1,1 @@
+[[Speed]] is defined as ==[[Distance Traveled]] divided by [[Elapsed Time]].== It is a [[Scalar]] value because it lacks a direction, and wouldn't be affected if the hypothetical direction was included. 

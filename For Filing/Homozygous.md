@@ -1,0 +1,1 @@
+as related to genetics, refers to having inherited the same versions (alleles) of a genomic marker from each biological parent. Thus, an individual who is homozygous for a genomic marker has two identical versions of that marker.

@@ -1,0 +1,1 @@
+https://www.reddit.com/r/ObsidianMD/comments/sjm5gp/nested_daily_note_folders_natively_in_obsidian/

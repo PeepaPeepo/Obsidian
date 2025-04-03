@@ -1,0 +1,1 @@
+[[Alpha Halogenation]] is a reaction where [[Ketones]] and [[Aldehydes]] react with [[Diatomic Elements]] such as $Cl_{2}$, $Br_{2}$, and $I_{2}$, and the respective [[Halogens]] is added to the alpha position relative to the carbonyl group.

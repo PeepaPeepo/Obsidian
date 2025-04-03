@@ -1,0 +1,1 @@
+[[Aposematic Coloration]] is typically eye catching non-camouflage colors that warns [[Predators]] that they are "dangerous". This is common in prey animals that produce toxins that can easily predators.

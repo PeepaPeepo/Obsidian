@@ -1,0 +1,1 @@
+[[Cyanobacteria]] are [[Gram-Negative]] [[Photoautotrophs]]. It is solitary and filamentous.

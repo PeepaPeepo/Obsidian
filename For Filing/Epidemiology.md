@@ -1,0 +1,1 @@
+Epidemiology is the study of distribution of disease in populations.

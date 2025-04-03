@@ -1,0 +1,1 @@
+Morbidity is the state of being diseased or experiencing a condition.

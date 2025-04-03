@@ -1,0 +1,3 @@
+[[Vitamins]] are [[Micromolecules]] that cannot be easily produced by the human body and is obtained through consumption. Two major categories of vitamins are [[Water-Soluble Vitamins]] and [[Fat-Soluble Vitamins]]. Excess fat soluble vitamins can be dangerous because it can be stuck in the fat of an organism. Water soluble vitamins can be excreted via urination. 
+
+Important vitamins include A, B, C, D, E, K. I think A is for vision and skin epithelium, B is related to [[Coenzymes]], C is used in [[Collagen]], D is used in bones and calcium, E is for anti oxidants, and K is for blood clotting.

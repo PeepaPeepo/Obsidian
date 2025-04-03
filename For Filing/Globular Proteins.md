@@ -1,0 +1,1 @@
+They make up the core of many [[Globular Proteins]]. Beta pleated sheets can link alpha helices, randomness can be helped with [[Proline]] and [[Glycine]].

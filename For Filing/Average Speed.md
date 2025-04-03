@@ -1,0 +1,1 @@
+[[Average Speed]] is the distance traveled divided by [[Elapsed Time]]

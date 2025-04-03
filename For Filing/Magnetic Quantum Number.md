@@ -1,0 +1,1 @@
+[[Magnetic Quantum Number]] is one the four values that describe an [[Electrons]] within the [[Dalton's Atomic Theory|Atomic Theory]]. This number describes the orientation of the orbitals found within an atom.

@@ -1,0 +1,1 @@
+[[Euglenids]] are one of the groups that make up [[Euglenozoans]]. they have one or two [[Flagella]] that emerge from a pocket at one end of the cell. Some are [[Mixotrophs]] that switch between [[Autotrophs]] and [[Heterotrophs|Heterotrophic]] modes depending on environment.

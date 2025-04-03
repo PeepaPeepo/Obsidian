@@ -1,0 +1,1 @@
+[[Euryarchaeota]] is a clade that includes many [[Archaea]].

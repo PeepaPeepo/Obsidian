@@ -1,0 +1,1 @@
+[[Amphipathic]] gives selective permeability

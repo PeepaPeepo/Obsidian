@@ -1,0 +1,1 @@
+[[Oomycetes]] include [[Water Molds]], [[White Rusts]], and [[Downy Mildews]]. their cell walls are composed of [[Cellulose]] and not [[Chitin]]. They are not closely related to [[Fungi]].

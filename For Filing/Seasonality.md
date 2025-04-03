@@ -1,0 +1,1 @@
+The tilt of the [[Earth]] in relation of the [[Sun]] causes [[Seasonality]]. It can affect wind patterns, ocean currents, and causing upwelling zones.

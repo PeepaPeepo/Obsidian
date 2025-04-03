@@ -1,0 +1,1 @@
+[[Secretin]] is a substance secreted by [[Small Intestine]] in response to acidic [[Chyme]].

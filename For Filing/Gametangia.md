@@ -1,0 +1,1 @@
+[[Gametangia]] are [[Reproductive Organs]] within [[Gametophytes]] [[Bryophytes]] ([[Nonvascular Plants]]). It can be either [[Archegonia]] for female or [[Antheridia]] for male.

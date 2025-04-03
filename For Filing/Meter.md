@@ -1,0 +1,1 @@
+Distance light travelled 1/299,792,458 in a [[Vacuum]]

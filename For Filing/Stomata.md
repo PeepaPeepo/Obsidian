@@ -1,0 +1,1 @@
+[[Stomata]] are pores of [[Kingdom Plantae|Plants]] that facilitate gas exchanges between the outside air and internal plant tissue

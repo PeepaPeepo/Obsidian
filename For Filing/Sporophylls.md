@@ -1,0 +1,1 @@
+[[Sporophylls]] are [[Spores]] bearing [[Leaves]] of [[Seedless Vascular Plants]] 

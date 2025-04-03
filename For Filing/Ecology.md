@@ -1,0 +1,1 @@
+The scientific study of interactions between organisms and the [[Biotic Factors]] and [[Abiotic Factors]] factors in the [[Environments]]

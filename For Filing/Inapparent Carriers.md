@@ -1,0 +1,1 @@
+[[Inapparent Carriers]] are those who carry agents but never get the disease, but they have the potential to also spread it.

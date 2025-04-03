@@ -1,0 +1,1 @@
+[[Reversible Reactions]] are [[Chemical Reactions]] that can proceed either forward or reverse.

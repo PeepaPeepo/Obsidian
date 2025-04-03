@@ -1,0 +1,1 @@
+[[Ecosystems]] are [[Communities]] and the physical factors they interact with.

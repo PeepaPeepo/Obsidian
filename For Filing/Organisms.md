@@ -1,0 +1,1 @@
+[[Organisms]] are individual living things. A collection of [[Organisms]] of the same [[Species]] can form [[Populations]] in one area. Groups of [[Populations]] in one area can compose a [[Communities]]. [[Communities]] include the interactions of [[Populations]] and the physical [[Environments]]. 

@@ -1,0 +1,190 @@
+# 09/27/2023 Lecture
+
+## Deoxyribonucleic Acid DNA
+
+- Ribonucleic acid
+- Difference is sugar
+	- pentene ring
+		- 1 - 5 prime is each carbon
+	- Ribose vs deoxyribose
+	- Carbon and nitrogen bases
+	- Nomencalture 
+		- if prime exists, we are talking about a sugar
+	- Ribose
+		- 1 prime
+		- 2 $-OH$
+		- 3 $-OH$
+		- 4
+		- 5
+	- Deoxy
+		- 1
+		- 2 $-H$
+		- 3 $-OH$
+		- 4
+		- 5
+- Biology is the most powerful technology ever creted
+- DNA is software, proteins are hardware, cells are factories
+- Arvind Gupta
+- Understanding the importance
+- Taking information from humans and gives it to off spring
+- DNA has 4 alphabetical letters
+- **4 Bases**
+	- Purines
+		- ADE [[Adenine]]
+		- GUA [[Guanine]]
+	- [[Pyrimidines]]
+		- CYT [[Cytosine]]
+		- URA  [[Urail]]
+			- RNA has thymine
+		- THY [[Thymine]]
+			- DNA has thymine
+- DNA
+	- Deoxy
+	- Thymine
+	- Bases
+		- Adensine
+		- Cytosine
+		- Thymine
+		- Guanine
+- DNA is double strandend
+	- more stable
+	- Contains base pairs
+		- 6 x 10 ^9 base pairs
+	- Adenine has two hydro bonds with thymine
+	- Guanine triple hydrogen bonds cytosine
+- RNA is single stranded 
+	- Ade double to URA
+	- Gua triple to CYT
+- Glycosidic Bond
+	- ADE
+		- Containing sugar
+		- [[Pentoses]]
+		- Sugar at N9
+		- Dixoy ribose Binds at 1 prime position
+			- It is a base
+
+## Plasmid 
+
+- extrachromosol
+- replicate
+- contains genes = gfp
+- circulate
+- selective marjer
+- promotor
+- glow for attracting prey
+
+## Co-factors
+
+- enzymes use it 
+
+## Bases
+
+- [[Adenine]]
+- [[Guanine]]
+- [[Thymine]]
+- [[Cytosine]]
+
+- Nucleoside
+- 5 Prime position contains a phosphate group 
+- Deoxyadenosine Triphosphate dATP
+	- Negative charges repel from each other
+	- Chelating
+		- Using Mg 2+ to neutrilize oxygen
+	- Nucleotide
+		- base, sugar, and phosphate
+			- each of phosphate from starting closesest from penten ring
+				- alpha phosphate
+					- dictates creation of phosopher die-ster bond froms backbone to dna and rna 
+				- beta
+				- gamma
+- Deoxyguanosine Triphosphate dGTP
+- Deoxythymidine Triphosphate dTTP
+- Deoxycytidine Triphosphate dCTP
+- Triphosphate connects to Doexyed ribose to the that lone -H 
+	- Only alpha phosphate connects to the lonate and condenses
+	- Breaks bond of gamma + beta phospate
+
+## General Nomenclature
+
+- dNTP
+	- d = deoxy
+	- n nuclelotide
+	- tri-phosphate
+	- can be any for the 4 dna bases
+	- Rna is not de-oxygenated
+- dNDP = ndp
+	- lack of gamma phosphate
+- dNMP NMP
+	- Missing gamma and beta phosphate
+	- monophospate
+- Replace N with base initial letter
+- Can do this with precussor bases
+- Adenine
+	- dATP
+	- ADP
+	- AMP
+- Activated bases
+	- MUST be in ATP
+	- Triphosphate ring
+- Polymerization
+	- Polymerizing a new strand
+
+## Polymerization Reaction for both DNA and RNA
+
+- No different from other macro molecules
+- Dehydration or condensation reaction
+- Note which positions participate in glylcocidic bond
+- Alpha phopshate creates nucleophilic attack
+	- A lot of electrons to share
+	- OH is attracted to Alpha phosphate O- 
+	- Forms a phospho diester bond
+	- Gamma and Beta gets released
+		- Gamma and beta together is ==Pyrophospate==
+		- Breaking gamma and beta bond
+		- Broken down by pyrophosphatee
+		- 2 molecules fo inorganic phosphate 
+
+## DNA Polymerares
+
+- Enzymes that make DNA
+
+## RNA Polymerases 
+
+- Enzymes that Make RNA
+
+- DDDP
+	- DNA Dependent NA Polymerares 
+- DDRPP
+	- DNA Dependent RNA Polymerases
+
+## Deoxyribonucleic Acid
+
+- Two hydrogen bond
+- 5 prime positoin is usually a phosphate group
+- 4 prime is free -OH group
+- Adding to -OH group
+
+## Anti-Parallel
+
+- one strand to 5 prime to 3 prime
+- Then blip other to 3 prime to 5 prime
+- creates bases to be opitmized for hydrogen bonds
+- DNA is highly malleable 
+- Bases are nitrogenous bases
+	- highly hydrophobic
+	- Pushes water out
+	- Greates a helix
+- Backbone
+	- is hydrophilic
+	- phoshate groups a
+- Helix expells water
+	- Forms two Clefs
+		- [[Major Groove]]
+			- deeper and wider than minor
+			- Binds happen in major groove
+		- [[Minor Groove]]
+- 5' - 3'
+- 3' - 5'
+- Wattson Crik Base PAring
+	- a - t
+	- c- g

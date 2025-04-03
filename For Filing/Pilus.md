@@ -1,0 +1,1 @@
+[[Pilus]] is a hair like appendage that enables [[Conjugation]]

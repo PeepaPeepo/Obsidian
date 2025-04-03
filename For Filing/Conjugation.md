@@ -1,0 +1,1 @@
+[[Conjugation]] is the transfer of [[Deoxyribonucleic Acid|DNA]] from two different [[Prokaryotes|Prokaryotic]] [[Cells]]

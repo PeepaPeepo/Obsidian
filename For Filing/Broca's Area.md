@@ -1,0 +1,1 @@
+[[Broca's Area]] is a region of the [[Brain]] found in the [[Frontal Lobe]].

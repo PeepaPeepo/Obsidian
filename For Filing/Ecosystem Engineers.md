@@ -1,0 +1,1 @@
+[[Ecosystem Engineers]] are [[Species]] that can dramatically change their environment. They can also be [[Foundation Species]]. Examples include beavers that create dams, or even trees that alter their environments. They can provide shade, change temperature, changing soil consistency, etc.

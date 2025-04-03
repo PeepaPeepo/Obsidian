@@ -1,0 +1,1 @@
+[[Transmission]] is a [[Mechanism]] that transfers [[Agents]] from one [[Host]] to another. Mechanism describe a process that is brought about.

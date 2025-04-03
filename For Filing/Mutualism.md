@@ -1,0 +1,1 @@
+[[Mutualism]] is a form of [[Positive Interactions]] where both parties benefit without being harmed. Such that a clown fish and anemone benefit from each other.

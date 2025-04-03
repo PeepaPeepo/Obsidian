@@ -1,0 +1,1 @@
+A [[Diagnosis]] is a complete definition of an ailment or disease

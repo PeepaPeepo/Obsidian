@@ -1,0 +1,1 @@
+A cell targets itself

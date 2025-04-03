@@ -1,0 +1,1 @@
+[[Amoebozoans]] are a [[Clades|clade]] of [[Unikonta]] and it includes [[Species]] that are [[Amoebas]] that have lobe or tube shaped [[Pseudopodia]]. They include [[Tubulinids]], [[Slime Molds]], and [[Entamoebas]]

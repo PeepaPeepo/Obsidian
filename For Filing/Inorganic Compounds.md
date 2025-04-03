@@ -1,0 +1,1 @@
+[[Inorganic Compounds]] are [[Compounds]] that lack [[Carbon]] [[Atoms]]

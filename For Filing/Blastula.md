@@ -1,0 +1,1 @@
+[[Blastula]] is formed in early embryonic development, it is preceded by three rounds of [[Mitotic Phase]] [[Cell Division]], and it is a hollow ball of [[Cells]]. It eventually undergoes [[Gastrulation]] to form a [[Gastrula]].

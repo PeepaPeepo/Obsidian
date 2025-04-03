@@ -1,0 +1,1 @@
+[[Communities]] are groups of [[Populations]] of different [[Species]] in the same area.

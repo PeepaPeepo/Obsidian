@@ -1,0 +1,1 @@
+[[Microsporophylls]] are [[Sporophylls]] that produce [[Microspores]] which form male [[Gametophytes]]. 

@@ -1,0 +1,1 @@
+[[Secondary Succession]] is the recolonization of an area after a major disturbance. 

@@ -1,0 +1,1 @@
+[[Seeds]] are structures of [[Seed Plants]] that contain [[Embryos]] and [[Nutrients]]. They can come from either [[Angiosperms]] or [[Gymnosperms]].

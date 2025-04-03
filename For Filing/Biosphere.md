@@ -1,0 +1,1 @@
+The [[Biosphere]] is the collection of [[Ecosystems]] and [[Landscapes]] that make up of the planet.

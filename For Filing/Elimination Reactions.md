@@ -1,0 +1,1 @@
+[[Potassium tert-butoxide]], $\ce{ (CH_{3})3COK }$, is a common reagent used in [[Elimination Reactions]] and produces an [[Alpha, Beta-Unsaturated Ketone]].

@@ -1,0 +1,1 @@
+organism lives inside the cell or cells of other organisms

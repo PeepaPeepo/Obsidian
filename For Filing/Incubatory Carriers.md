@@ -1,0 +1,1 @@
+[[Incubatory Carriers]] are those who transmit the [[Agents]] prior to onset of disease. This means that people incubating the disease, or is in the [[Stage of Subclinical Disease]], are contagious before the [[Stage of Clinical Disease]] occurs which is marked by Onset of Symptoms.

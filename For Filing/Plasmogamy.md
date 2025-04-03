@@ -1,0 +1,1 @@
+[[Plasmogamy]] is the fusion of [[Cytoplasm]] within [[Fungi]] during [[Reproduction]]. It is the union of cytoplasm from two parent [[Mycelium|Mycelia]]

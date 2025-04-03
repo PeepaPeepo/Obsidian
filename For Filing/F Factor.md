@@ -1,0 +1,1 @@
+[[F Factor]] is the presence of the [[F Plasmid]]. The presence of the F Plasmid changes the cell into [[F+ Cells]]. [[F+ Cells]] can convert [[F- Cells]] into [[F+ Cells]] if the entire plasmid enters. 

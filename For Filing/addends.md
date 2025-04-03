@@ -1,0 +1,1 @@
+Addends are values that are being added together

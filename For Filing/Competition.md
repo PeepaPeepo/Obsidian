@@ -1,0 +1,1 @@
+[[Competition]] is a type of [[Interspecific Interactions]] where [[Species]] of two [[Populations]], or even [[Organisms]] in one [[Populations]], compete for a limited resource. 

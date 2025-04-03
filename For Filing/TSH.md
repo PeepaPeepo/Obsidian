@@ -1,0 +1,1 @@
+[[TSH]] is a [[Tropic Hormone]] that indirectly stimulates two different [[Thyroid Gland]] [[Hormones]], [[Thyroxine]] and [[Triiodothyronine]].

@@ -1,0 +1,70 @@
+---
+datecreated: 2023/09/18
+aliases: 
+course: CHEM 111
+---
+
+- [[Atoms]]
+- [[Dalton's Atomic Theory]]
+- [[Democritus]]
+	- ~400 BC
+- [[John Dalton]]
+	- 1800's
+	- Atomic Theory
+- [[Subatomic Particles]]
+	- [[Electrons]]
+	- [[Protons|Proton]]
+	- [[Neutrons|Neutron]]
+- [[Atomic Mass Units]]
+- [[Periodic Table of the Elements]]
+	- Organization is done by Russian Chemist Dmitri Mendeleev
+	- German Chemist Julius Lothar Meyer has independently suggested a similar organization
+	- Dmitri left some spaces because he speculated there are non-discovered elements based on his Periodic Law
+	- [[Periodic Law]]
+	- [[Metals]]
+	- [[Nonmetals]]
+	- [[Metalloids]]
+	- [[Main Group Elements]]
+		- Columns labelled with Number and letter A
+	- [[Transition Elements]] or Transition Metals
+		- Less predictable based on position in periodic table
+		- Columns labelled with Number and letter B
+	- [[Element Groups]]
+		- Elements in the same column belong to the same Family or Group
+		- Group 8A are the Noble Gases
+	- [[Alkali Metals]]
+		- Group 1A
+		- Highly Reactive Metals
+	- [[Alkaline Earth Metals]]
+		- Group 2A
+		- Reactive, but not as much as Alkali Metals
+	- [[Halogens]]
+		- Group 7A
+		- Very Reactive Nonmetals
+		- Chlorine is used for sterilizing and disinfecting due to reactivity
+		- Kills bacteria and microscopic organisms
+	- [[Noble Gases]]
+		- Group 8A
+		- Chemically Inert Gases
+		- Chemically Stable
+		- Complete Valence
+		- Cannot/Won't combine with other elements
+- [[Ions]]: Gaining and Losing Electrons
+	- [[Cations]]
+	- [[Ions]]
+	- Periodic Trends
+	- Alkali Metals +1
+	- Alkaline Earth Metals +2
+	- Halogens -1
+- [[Isotopes]]
+	- Isotopes have the same chemical properties but different masses
+	- Some isotopes are more common
+	- Chemical Symbol with Mass Number indicates which isotope
+	- Some Elements have many or less isotopes
+- [[Atomic Masses]]
+	- Value on periodic table that represents average mass of all isotopes
+- [[Dalton's Atomic Theory]]
+- Discovery of Atoms Nucleus
+	- [[Plum Pudding Model of the Atom]]
+	- [[Space-Filling Models]]
+- Charge

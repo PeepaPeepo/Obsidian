@@ -1,0 +1,1 @@
+[[Relativity]] is used when an object is traveling faster than 1% of the speed of [[Light]] or experiences a strong [[Gravitational Field]]

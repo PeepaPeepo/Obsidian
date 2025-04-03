@@ -1,0 +1,1 @@
+[[Individuals]] are one [[Organisms]] of one [[Species]].

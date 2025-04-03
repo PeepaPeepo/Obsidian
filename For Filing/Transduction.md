@@ -1,0 +1,1 @@
+[[Transduction]] is the introduction of [[Deoxyribonucleic Acid|DNA]] from [[Bacteriophages|Phages]] that carry [[Prokaryotes|Prokaryotic]] [[Genes]] from one host to another.

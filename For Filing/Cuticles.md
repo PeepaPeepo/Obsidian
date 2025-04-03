@@ -1,0 +1,1 @@
+[[Cuticles]] are waxy coverings of the [[Epidermis]] of [[Kingdom Plantae|Plants]] that reduces water loss

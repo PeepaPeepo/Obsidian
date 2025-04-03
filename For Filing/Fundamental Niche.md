@@ -1,0 +1,1 @@
+[[Fundamental Niche]] are compatible [[Ecological Niche]] that [[Organisms]] can use, but does not entail they are living in it.

@@ -1,0 +1,1 @@
+[[Archaeplastida]] is one of the [[Four Supergroups of Eukaryotes]] that include [[Green Algae]] and [[Red Algae]], and [[Kingdom Plantae|Plants]].

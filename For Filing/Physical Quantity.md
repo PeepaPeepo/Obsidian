@@ -1,0 +1,1 @@
+is defined by specifying how it was measured or calculated from other measurements.

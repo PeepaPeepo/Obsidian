@@ -1,0 +1,1 @@
+[[Progesterone]] is a type of [[Steroid Hormones]] that thickens the [[Endometrial Wall]] in the [[Uterus]].

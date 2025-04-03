@@ -1,0 +1,1 @@
+[[Ectoparasites]] are [[Parasites]] that live on the outside of its host, this can include ticks and leeches. This is a form of [[Interspecific Interactions]] that are [[Exploitation]] and [[Parasitism]].

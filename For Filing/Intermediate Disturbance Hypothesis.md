@@ -1,0 +1,1 @@
+[[Intermediate Disturbance Hypothesis]] states that [[Communities]] change most when moderate levels of [[Disturbances]] occur as opposed to max or minimal levels. Minimal levels allow too much out competition, and high levels exceed tolerance of some species.

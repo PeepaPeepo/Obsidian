@@ -1,0 +1,1 @@
+[[Interspecific Interactions]] are interactions between [[Species]] of two [[Populations]], and it can be [[Competition]], [[Exploitation]], or [[Positive Interactions]].

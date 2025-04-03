@@ -1,0 +1,1 @@
+[[Relative Abundance]] is the amount of [[Species]] compared to the sum of all [[Species]] in an area.

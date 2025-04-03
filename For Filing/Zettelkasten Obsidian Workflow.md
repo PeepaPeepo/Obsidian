@@ -1,0 +1,70 @@
+
+- Meaning
+	- German
+	- Zettel Slip
+	- Kasten Drawer
+
+- Zettelkasten and obsidian is easy but chaotic
+- Workflow
+	- Vicky Zhao
+	- https://www.youtube.com/watch?v=HSTOSWOhNo4&t=165s&ab_channel=VickyZhao%5BBEEAMP%5D
+- Five steps
+	- capturing notes
+	- process notes
+	- connect
+	- output
+	- gathering note on reaction and conversation
+- Fleeting notes vs Literature/Media Notes
+	- Fleeting
+		- anything that pops up in your mind
+	- Literature
+		- Anything you can consume
+- Taking notes indiscriminately
+	- thoughts that interests you are healthy
+- Building awareness on thoughts and its existence
+- Zettelkasten is helpful to build notes and link them over time
+- Examples
+	- Sampling period
+		- Write down ideas
+	- capturing notes
+		- to be able to find it again
+		- Retrieving
+		- Tags and search
+		- Folder is almost obsolete
+	- processing notes
+		- make it atomic
+			- Each idea should be able to fit in an index card
+				- questions
+				- ideas
+				- Each anecdote is its own
+				- supplementary tools
+		- make it search friendly
+			- tags 
+				- categories
+					- questions
+					- ideas
+						- paradox
+						- counter intuitive
+					- supplementary
+						- quote
+						- anecdote
+						- scientific studies
+				- Checking status
+					- build (develop ideas)
+					- Check (accuracy)
+					- To read
+					- To watch
+			- keyword 
+				- In title
+				- Eliminate restrictions on how you want to do things to promote routine
+			- Search vs quickswitch
+	- Output
+		- newsletter
+		- Twitter visual zettlekasten
+	- Connecting notes
+		- Idea of zettelkasten compass
+			- West Similar
+			- East Opposite
+			- North Theme Question
+			- South Where does it lead to
+

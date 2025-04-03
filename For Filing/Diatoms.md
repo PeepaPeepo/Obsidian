@@ -1,0 +1,1 @@
+[[Diatoms]] are [[Unicellular Organisms|Unicellular]] [[Algae]] with two part wall of [[Silicon Dioxide]]. It can withstand 1.4 kg/m^2 of pressure. 

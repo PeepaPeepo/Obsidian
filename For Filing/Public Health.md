@@ -1,0 +1,1 @@
+Public health is a organized effort to reduce impacts of disease and death, specifically primary prevention.

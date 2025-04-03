@@ -1,0 +1,1 @@
+[[Population Ecology]] analyzes factors affecting [[Populations]] sizes and why it changes over time.

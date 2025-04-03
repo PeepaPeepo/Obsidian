@@ -1,0 +1,1 @@
+[[Ecological Niche]] are the [[Abiotic Factors|Abiotic]] and [[Biotic Factors|Biotic]] resources a particular [[Species]] uses in its [[Environments]].

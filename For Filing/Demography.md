@@ -1,0 +1,1 @@
+[[Demography]] is the study of [[Biotic Factors]] and [[Abiotic Factors]] that influence [[Populations]] [[Density]] and [[Dispersion]] and how they influence population characteristics such as birth, death, and migration rates. It also accounts for how they change over time.

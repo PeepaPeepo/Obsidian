@@ -1,0 +1,1 @@
+[[Endoparasites]] are [[Parasites]] that exist or live within its [[Host]].
