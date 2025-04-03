@@ -351,7 +351,7 @@ Need to really sit down and do the math and engage, very difficult.
 - [ ]  ~~Watch DATBooster’s Organic Chemistry Videos: Functional Group Chemistry (6.1 - 6.10) if you are having trouble with understanding the concepts in Ch 9. (Recommended)~~ 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Alcohols, Ethers, & Epoxides 
 - [ ]  Complete Extra Reading Comprehension Practice #15 and 16 – Practice using the strategy that works best for you. 
-- [ ]  Watch Quantitative Reasoning Videos: Applied Mathematics (4.8-4.11) 
+- [x]  Watch Quantitative Reasoning Videos: Applied Mathematics (4.8-4.11) 
 - [ ]  Complete Applied Mathematics - Question Banks 8-9 (20 questions) 
 
 # Day #40 
