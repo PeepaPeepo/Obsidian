@@ -779,7 +779,15 @@ Hypertonic leads to
 
 ## 3.8 Outer Cell and Intracellular Movement
 
-Cell walls are
+Cell walls are extra layers found in bacteria, plants, fungi, and protists.
+Bacteria uses peptidoglycan
+Plan uses cellulose
+Fungi uses chitin
+Gram negtaive have lipopolysaccharides  nad release toxics when dead
+Gylcocalyx is found on inside of blood vessels 
+Extracellular Matrix can be made of proteins, and polysccharides 
+Three functions are structureal support, adhesion, and signalling
+
 
 # 11 Diversity of Life
 

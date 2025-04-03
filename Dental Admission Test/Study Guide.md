@@ -30,7 +30,7 @@ related to the DAT)
 - [x]  Watch DATBooster’s Keyhole Videos (1.1 - 1.11)  
 - [x]  **Read the Keyhole Strategy and Rock Keyhole Strategy Guides** 
 - [x]  Use DATBooster’s Keyhole Question Banks to practice first 15 questions  
-- [ ]  Watch DATBooster’s Top-Front-End Videos (2.1 - 2.15) 
+- [x]  Watch DATBooster’s Top-Front-End Videos (2.1 - 2.15) 
 - [x]  **Read the Top-Front-End Strategy Guide**  
 - [x]  Use DATBooster’s Top-Front-End Question Bank to practice 5 questions
 
