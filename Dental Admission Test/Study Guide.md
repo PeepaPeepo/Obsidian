@@ -7,7 +7,7 @@ related to the DAT)
 - [x]  Watch DATBooster’s Biology Videos: Biochemistry
 - [x]  Read Feralis-Booster Notes Ch I. Cell & Molecular Biology (Pages 1 to 4) in detail and memorize only key concepts
 - [ ]  Read DATBooster’s Organic Chemistry Notes: Ch 1. The Fundamentals
-- [x]  Watch DATBooster’s Organic Chemistry Videos: The Fundamentals (1.1 - 1.7) if you are having trouble with understanding the concepts in Ch 1. (Recommended)
+- [ ]  Watch DATBooster’s Organic Chemistry Videos: The Fundamentals (1.1 - 1.7) if you are having trouble with understanding the concepts in Ch 1. (Recommended)
 - [x]  Complete DATBooster’s Organic Chemistry Questions Banks: The Fundamentals
 
 # Day #2
@@ -18,7 +18,7 @@ related to the DAT)
 - [x]  Watch Reading Comprehension Videos: The Basics (1.1 - 1.3)==
 - [x] Complete Extra Reading Comprehension Practice #1 – Try different strategies to see which works best for you
 - [ ]  ~~Read Recommended Reading Article #1 – Try to read this article for 4 minutes and see how much information you can retain~~
-- [ ]  Watch Quantitative Reasoning Videos: Introduction Videos (1.1-1.12)
+- [ ] ~~Watch Quantitative Reasoning Videos: Introduction Videos (1.1-1.12)~~
 
 # Day #3 
 
