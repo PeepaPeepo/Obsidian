@@ -1697,6 +1697,14 @@ Enhave sensitivity to pain
 ==What are the effects?==
 # 25 Evolution
 
+# 25.1 Evolution
+
+Evolution is the change of [[Allele Frequencies]] within a population over time.
+[[Microevolution]] is the change of [[Allele Frequencies]] due to things like genetic mutation, selection, gene flow, gene drift, and non random mating. ==This didn't mention how fast it occurs==
+[[Macroevolution]] refers to the pattern of changes of groups of related species over time.
+Micro evolution focuses on a single population, and macro focuses on a group of related species.
+[[Theory of Natural Selection|Natural Selection]] is the concept that the survival of the fittest allows for allele frequencies to increase or decrease based on the environment.
+
 
 # Bio Bits
 
