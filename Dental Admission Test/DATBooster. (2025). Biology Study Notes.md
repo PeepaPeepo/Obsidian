@@ -1717,6 +1717,19 @@ Micro evolution focuses on a single population, and macro focuses on a group of 
 Think about how bats and birds have similar anatomy, it might indicate that they have a common ancestor. This is an example of [[Homologous Structures]]
 
 [[Analogous Structures]] refer to how similar species can be found between two non related species.
+
+## Natural Selection
+
+[[Stabilizing Selection]] favors and intermediate? Such that most humans are of similar height? What the fuck?
+[[Directional Selection]] is the favoring of an extreme of the range? Either Shortest neck or longest neck in giraffes?
+[[Industrial Selection]] is caused by industrial pollution.
+[[Disruptive Selection]] favors unusual traits instead of common traits.
+[[Sexual Selection]] cam eotjer be [[Intersexual Selection]], [[Intrasexual Selection]], or [[Sexual Dimorphism]].
+
+## Sources of Variation
+
+[[Mutations]] can form new alleles that can be introduced into a population.
+[[Sexual Reproduction]] can 
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
