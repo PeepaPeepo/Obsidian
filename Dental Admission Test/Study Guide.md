@@ -357,12 +357,12 @@ Need to really sit down and do the math and engage, very difficult.
 # Day #40 
 
 - [ ]  Watch DATBooster’s Biology Videos: Evolution  
-- [ ]  Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 1-16, until Animal 
-Behavior) in detail and memorize only key concepts. 
-- [ ]  Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding 
-Question Banks to practice 10 questions each. 
+- [x]  Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 1-16, until Animal Behavior) in detail and memorize only key concepts. 
+- [ ]  Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
 - [ ]  Use DATBooster’s Cube Counting Generators to practice 10 questions. 
-Day #41 
+
+# Day #41 
+
 - [ ]  Read DATBooster’s Organic Chemistry Notes: Ch 10. Enolate Reactions 
 - [ ]  Watch DATBooster’s Organic Chemistry Videos: Enolate Chemistry (7.1 - 7.6) if you are having 
 trouble with understanding the concepts in Ch 10. (Recommended) 
