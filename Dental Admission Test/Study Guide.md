@@ -367,7 +367,7 @@ Need to really sit down and do the math and engage, very difficult.
 - [ ]  Watch DATBooster’s Organic Chemistry Videos: Enolate Chemistry (7.1 - 7.6) if you are having trouble with understanding the concepts in Ch 10. (Recommended) 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Enolate Reactions 
 - [ ]  Complete Extra Reading Comprehension Practice #17 and 18 – Practice using the strategy that works best for you. 
-- [ ]  Watch Quantitative Reasoning Videos: Probability (5.1-5.4) 
+- [x]  Watch Quantitative Reasoning Videos: Probability (5.1-5.4) 
 - [ ]  Complete Probability - Question Banks 1-4 (40 questions) 
 
 Day #42 
