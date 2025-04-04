@@ -380,21 +380,18 @@ Need to really sit down and do the math and engage, very difficult.
 # Day #43 – Catch Up Day  
 
 - [ ]  Answer Bio Bits (optional) - do as many as you can to solidify your knowledge and memorize 
-information. Focus on topics you feel you need the most practice in.  
-2025 Edition (Updated: 1/22/2025)
- DATBooster | Booster PrepTM
-19
- - [ ]  Take this day to take a break or review everything you have learned up until this point and review 
-practice questions which you got wrong. 
-Day #44 
+information. Focus on topics you feel you need the most practice in. 
+- [ ]  Take this day to take a break or review everything you have learned up until this point and review practice questions which you got wrong. 
+
+# Day #44 
+
 - [ ]  Read DATBooster’s Organic Chemistry Notes: Ch 11. Aromaticity and Benzene Reactions 
-- [ ]  Watch DATBooster’s Organic Chemistry Videos: Benzene Reactions & Aromaticity (8.1 - 8.7) if 
-you are having trouble with understanding the concepts in Ch 11. (Recommended) 
+- [ ]  Watch DATBooster’s Organic Chemistry Videos: Benzene Reactions & Aromaticity (8.1 - 8.7) if you are having trouble with understanding the concepts in Ch 11. (Recommended) 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Aromaticity & Benzene Reactions 
-- [ ]  Complete Extra Reading Comprehension Practice #19 and 20 – Practice using the strategy that 
-works best for you. 
+- [ ]  Complete Extra Reading Comprehension Practice #19 and 20 – Practice using the strategy that works best for you. 
 - [ ]  Watch Quantitative Reasoning Videos: Probability (5.5-5.10) 
 - [ ]  Complete Probability - Question Banks 5-8 (40 questions) 
+
 Day #45 
 - [ ]  Watch DATBooster’s Biology Videos: Ecology  
 - [ ]  Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 25-47) in detail and 
@@ -450,7 +447,7 @@ TIMED conditions.
 - [ ]  Review questions that you have answer incorrectly and brush up on topics of weakness
 
 # Phase 2: Practice Questions/Tests & Review 
-22
+
  With your first phase complete, you will now begin a general review process of the content you have learned. Keep in mind, the content in this phase is not meant to be a thorough review, it’s meant to be a general review. Remember, the key is to focus on breadth over depth. Using tools such as Anki decks or Quizlet flashcards will be crucial to master specific subjects like Biology. Furthermore, there will be more frequent practice tests, which are to be taken under TIMED conditions. While completing these full-length tests, you will also continue your revision of content so your foundation stays strong. When you are reviewing topics which are difficult for you, review using your notes, videos, and formula/reaction sheets (if appropriate).  
  Biology Pro-Tip:  
 • BIO BITS: This is simply an additional tool to help you memorize content, and are completely 
@@ -458,15 +455,13 @@ optional. Additionally, do not worry about completing the questions, as you will
 continue working on these questions in phase 3. 
 
 Day #50 
-- [ ]  Use DATBooster’s Keyhole, Top-Front-End, and Pattern Folding Question Banks to practice 15 
-questions each. Try completing these 45 questions within 35 minutes by treating it as a mini-test. 
-- [ ]  Use DATBooster’s Angle Ranking, Hole Punching, and Cube Counting Game Challenges and try 
-to make it into the leaderboard. 
+
+- [ ]  Use DATBooster’s Keyhole, Top-Front-End, and Pattern Folding Question Banks to practice 15 questions each. Try completing these 45 questions within 35 minutes by treating it as a mini-test. 
+- [ ]  Use DATBooster’s Angle Ranking, Hole Punching, and Cube Counting Game Challenges and try to make it into the leaderboard. 
 - [ ]  Memorize Biology Chapter 1 Booster Cheat Sheets: Biochemistry, Cells & Organelles, 
 Biothermodynamics, Cellular Respiration, Photosynthesis, Cell Division, Biotechnology & 
 Microscopy 
-- [ ]  Use Cell & Molecular Biology Bio Bits (Optional) - do as many as you can to solidify your knowledge 
-and memorize the information.  
+- [ ]  Use Cell & Molecular Biology Bio Bits (Optional) - do as many as you can to solidify your knowledge and memorize the information.  
 • Please note: It is not necessary to complete every question, as they are simply here to help you 
 memorize the content 
 - [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all 
@@ -476,12 +471,10 @@ Biology concepts if you have not already done so.
 - [ ]  Redo Extra Reading Comprehension Practice #1 and 2 
 - [ ]  Read any New York Times Article  
 - [ ]  Redo 2 QR Question Banks that you found most difficult 
-2025 Edition (Updated: 1/22/2025)
- DATBooster | Booster PrepTM
+
 Day #51 
-23
- - [ ]  Use DATBooster’s Keyhole, Top-Front-End, and Pattern Folding Question Banks to practice 15 
-questions each. Try completing these 45 questions within 35 minutes by treating it as a mini-test. 
+
+ - [ ]  Use DATBooster’s Keyhole, Top-Front-End, and Pattern Folding Question Banks to practice 15 questions each. Try completing these 45 questions within 35 minutes by treating it as a mini-test. 
 - [ ]  Use DATBooster’s Angle Ranking, Hole Punching, and Cube Counting Game Challenges and try 
 to make it into the leaderboard. 
 - [ ]  Memorize Biology Chapter 1 Booster Cheat Sheets: Biochemistry, Cells & Organelles, 
