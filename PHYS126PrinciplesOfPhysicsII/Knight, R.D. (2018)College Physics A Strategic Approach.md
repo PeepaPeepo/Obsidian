@@ -469,3 +469,11 @@ Closer spacing of points results in stronger electric fields
 Inverse proportion 
 
 Just read the book and do the book problems
+
+# Paths of Charged Particles in a Uniform Magnetic Field
+
+Look for corkscrew shapes
+
+# 2025 04 07 Review
+
+- $F=\frac{mv^2}{r}=qVB$ Will pop up in midterm 
