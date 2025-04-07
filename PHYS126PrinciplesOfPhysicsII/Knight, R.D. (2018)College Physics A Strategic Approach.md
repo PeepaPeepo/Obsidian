@@ -477,3 +477,11 @@ Look for corkscrew shapes
 # 2025 04 07 Review
 
 - $F=\frac{mv^2}{r}=qVB$ Will pop up in midterm 
+- $r=\frac{mv}{qB}$ for Radius of Circular path in the context of mass spectrometer
+- Mass Spec Problems
+	- Figure out the speed of the ion starting from the plate
+	- $E=k_{1}+u_{1}=k_{2}+V_{2}$
+	- $qV=\frac{1}{2mv^{2}}$
+	- "velocity Selector"
+	- Looks like a =
+	- 
