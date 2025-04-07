@@ -484,4 +484,6 @@ Look for corkscrew shapes
 	- $qV=\frac{1}{2mv^{2}}$
 	- "velocity Selector"
 	- Looks like a =
-	- 
+	- Where the electrical force is up wards bnecause of the plates are negative on top and positive on bottom
+- Understand how a mass spec works
+- 
