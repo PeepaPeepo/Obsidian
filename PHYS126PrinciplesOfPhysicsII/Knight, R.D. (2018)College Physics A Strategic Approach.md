@@ -486,4 +486,6 @@ Look for corkscrew shapes
 	- Looks like a =
 	- Where the electrical force is up wards bnecause of the plates are negative on top and positive on bottom
 - Understand how a mass spec works
-- 
+- Ferromagnetism paramagnet and diamagnets
+- Test on paramagnet or diamagnet
+- No math on ferromagnetism
