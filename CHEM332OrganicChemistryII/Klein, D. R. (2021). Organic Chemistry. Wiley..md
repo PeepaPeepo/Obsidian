@@ -1163,3 +1163,8 @@ Gilman reactions lets reactions stop at specific steps because of its lower reac
 
 Very reactive
 Only sodium litium hydride reacts?
+
+## Esters Preparation
+
+Esters and Amides do not have good leaving groups
+[[Carboxylic Acid Derivatives]] look like or made from carboxylic acids
