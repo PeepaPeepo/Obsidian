@@ -1749,7 +1749,11 @@ Baby touching hot stuff and makes them not touch it
 
 [[Reflexes]] are involuntary movement or reactions
 [[Simple Reflexes]] is something like one nervous input, and one out put
-[[Complex Reflexes]] involves interneuron that in
+[[Complex Reflexes]] involves interneuron that includes multiple motor outputs, like pulling hands away from burns
+[[Fixed Action Patterns]] complex response after [[Sign Stimulus]] or a releaser, includes egg rolling from grey geese.
+Anything can look LIKE a sign stimulus
+Fixed Action patterns are like fixed scripts.
+[[Imprinting]] is an innate behavior combined with learned. 
 
 # Bio Bits
 
