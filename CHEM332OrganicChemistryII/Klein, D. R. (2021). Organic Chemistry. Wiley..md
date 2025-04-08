@@ -1132,4 +1132,8 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 Grignards are very versatile with the right reagents
 [[Wittig Reagent]] 
 
+## REactions of Carboxylic Acids
+
 [[Carboxylic Acid]] 
+LiAlH_$
+==Lithium Aluminum Hydride== look at these reactions
