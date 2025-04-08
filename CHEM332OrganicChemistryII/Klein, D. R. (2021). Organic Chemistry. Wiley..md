@@ -1149,3 +1149,8 @@ Acid Chloride is the most reactive because chlorine is a really good leaving gro
 ## Reduction of Acid Chloride
 
 Tracking Deuterium tracking
+
+## Reduction Control
+
+Using HB(sia)2
+$\ce{ HB(SIA)2 }$
