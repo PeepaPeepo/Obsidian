@@ -1793,6 +1793,14 @@ Animal giving info to other animals
 [[Visual Communication]] such as body language or rituals
 [[Auditory Communication]]
 [[Tactile Communication]]
+
+## 26.6 Animal Movement
+
+Kinesis change of speed
+Taxis is a specific moventmem
+Neg or post
+Migration for breeding, food or better envir
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
