@@ -1735,6 +1735,17 @@ Think about how bats and birds have similar anatomy, it might indicate that they
 [[Balanced Polymorphism]] refers to how multiple [[Phenotypes]] can exists because sometimes they have advantages to survive.
 [[Heterozygote Advantage]] refers to how htereozyogote can be advantageous vs homozyougs
 
+# 26 Animal Behavior
+
+## 26.1 Intro to Animal Behavior
+
+Behavioral Ecology, behaviors that contribute to fitness
+Action carrier by muscles in response to stimulus
+Essential for food, talking, fucking, movement etc
+
+Innate is instinctive and hardwired
+
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
