@@ -1755,6 +1755,9 @@ Anything can look LIKE a sign stimulus
 Fixed Action patterns are like fixed scripts.
 [[Imprinting]] is an innate behavior combined with learned. 
 
+## 26.2 Conditioned Learning
+
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
