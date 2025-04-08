@@ -1137,3 +1137,7 @@ Grignards are very versatile with the right reagents
 [[Carboxylic Acid]] 
 LiAlH_$
 ==Lithium Aluminum Hydride== look at these reactions
+
+## Preparation of Acid Chlorides
+
+Acid Chloride is the most reactive because chlorine is a really good leaving group
