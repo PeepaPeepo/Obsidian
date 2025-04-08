@@ -1783,6 +1783,16 @@ Negative and Positive refers to giving or removing either punishment or rewards
 [[Stimulation Generalization]] is similar response that seems similar to a bad or good experience
 [[Stimulus Discrimination]] 
 
+## 26.5 Animal Communication
+
+Animal giving info to other animals
+[[Chemical Communication]]
+[[Pheromones]] communicates, attracts mates, mark territory
+[[Releaser Pheromones]] triggers behavioral changes
+[[Primer Pheromones]] causes physiological changes
+[[Visual Communication]] such as body language or rituals
+[[Auditory Communication]]
+[[Tactile Communication]]
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
