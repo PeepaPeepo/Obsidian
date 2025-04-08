@@ -385,8 +385,8 @@ information. Focus on topics you feel you need the most practice in.
 
 # Day #44 
 
-- [ ]  Read DATBooster’s Organic Chemistry Notes: Ch 11. Aromaticity and Benzene Reactions 
-- [ ]  Watch DATBooster’s Organic Chemistry Videos: Benzene Reactions & Aromaticity (8.1 - 8.7) if you are having trouble with understanding the concepts in Ch 11. (Recommended) 
+- [ ]  ~~Read DATBooster’s Organic Chemistry Notes: Ch 11. Aromaticity and Benzene Reactions~~ 
+- [ ]  ~~Watch DATBooster’s Organic Chemistry Videos: Benzene Reactions & Aromaticity (8.1 - 8.7)~~ if you are having trouble with understanding the concepts in Ch 11. (Recommended) 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Aromaticity & Benzene Reactions 
 - [ ]  Complete Extra Reading Comprehension Practice #19 and 20 – Practice using the strategy that works best for you. 
 - [ ]  Watch Quantitative Reasoning Videos: Probability (5.5-5.10) 
