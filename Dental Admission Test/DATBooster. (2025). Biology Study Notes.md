@@ -1744,7 +1744,12 @@ Action carrier by muscles in response to stimulus
 Essential for food, talking, fucking, movement etc
 
 Innate is instinctive and hardwired
+Biologically knows to do
+Baby touching hot stuff and makes them not touch it
 
+[[Reflexes]] are involuntary movement or reactions
+[[Simple Reflexes]] is something like one nervous input, and one out put
+[[Complex Reflexes]] involves interneuron that in
 
 # Bio Bits
 
