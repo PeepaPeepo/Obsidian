@@ -6,7 +6,7 @@ aliases:
   - cyclic AMP Signaling
 course:
 ---
-[[cyclic AMP]] is a type of [[Second Messengers]] that is synthesized by the enzyme [[Adenylyl Cyclase]], and it binds and activates [[Enzymes]] called [[cyclic AMP Dependent Kinases|A-Kinases]]. It regulates vital [[Metabolic Pathways]].
+[[cyclic AMP]] is a type of [[Secondary Messengers]] that is synthesized by the enzyme [[Adenylyl Cyclase]], and it binds and activates [[Enzymes]] called [[cyclic AMP Dependent Kinases|A-Kinases]]. It regulates vital [[Metabolic Pathways]].
 
 ![[Figure 2. This diagram shows the mechanism for the formation of cyclic AMP (cAMP)..png]]
 
