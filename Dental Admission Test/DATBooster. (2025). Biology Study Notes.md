@@ -1761,7 +1761,13 @@ Fixed Action patterns are like fixed scripts.
 Associative learning is the association between multiple stimuli
 [[Classical Conditioning]] converts [[Neutral Stimulus]] to [[Conditioned Stimulus]]
 [[Associative Learning]]
-[[Neutral ]]
+[[Neutral Stimulus]] causes no reaction
+[[Unconditioned Response]]
+
+## 26.3 Animal Learning Types
+
+[[Operant Conditioning]] trial and error with reward and punishment
+
 
 # Bio Bits
 
