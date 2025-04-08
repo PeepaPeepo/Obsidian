@@ -1772,7 +1772,13 @@ Associative learning is the association between multiple stimuli
 Negative and Positive refers to giving or removing either punishment or rewards
 
 [[Spatial Learning]] ls like logging a map in their head
-[[Associative Learning]] lea
+[[Associative Learning]] learns by watching and imitation
+[[Insight]] is performing a behavior that makes a new outcome
+
+## 26.4 Stimulus Reactions
+
+[[Habituation]] leads to decreased response to repeated stimulus that has no effect over time, getting used to stimulus
+[[Spontaneous Recovery]] is recovr
 
 # Bio Bits
 
