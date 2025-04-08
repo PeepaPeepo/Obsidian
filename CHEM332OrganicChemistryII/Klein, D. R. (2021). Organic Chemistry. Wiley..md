@@ -1157,3 +1157,9 @@ $\ce{ HB(SIA)2 }$
 
 ## Organometallic Reagent - Gilman Reagents
 
+Gilman reactions lets reactions stop at specific steps because of its lower reactivity
+
+## Preparation Acid Anhydrides
+
+Very reactive
+Only sodium litium hydride reacts?
