@@ -1120,3 +1120,13 @@ What is [[Electrophilic Aromatic Substitution]]?
 [[Diatomic Elements]] such as $Br_{2}$ can function as a [[Electrophile]] when they are close to [[Nucleophiles]] such as a $\pi$ bond, the bi bond allows for temporary polarization to let it react.
 This isn't strong enough to occur when working with [[Benzene]].
 The presence of iron increases the electrophilicity of bromine because Fe reacts with Br2 to make Tribromide which is a better form to react with ben
+
+# Chapter 20.4 Oxidation of Alkylbenzenes
+
+## Hydrolysis of Nitriles
+
+[[Nitriles]] 
+
+## Carboxylation of Grignards
+
+Grignards are very versatile with the right reagents
