@@ -373,15 +373,15 @@ Need to really sit down and do the math and engage, very difficult.
 # Day #42 
 
 - [ ]  Watch DATBooster’s Biology Videos: Animal Behavior  
-- [ ]  Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 16-24) in detail and memorize only key concepts. 
+- [ ]  ~~Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 16-24) in detail and memorize only key concepts.~~ 
 - [ ]  Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
 - [ ]  Use DATBooster’s Cube Counting Generators to practice 10 questions. 
 
 # Day #43 – Catch Up Day  
 
-- [ ]  Answer Bio Bits (optional) - do as many as you can to solidify your knowledge and memorize 
-information. Focus on topics you feel you need the most practice in. 
-- [ ]  Take this day to take a break or review everything you have learned up until this point and review practice questions which you got wrong. 
+- [ ]  ~~Answer Bio Bits (optional) - do as many as you can to solidify your knowledge and memorize~~ 
+~~information. Focus on topics you feel you need the most practice in.~~ 
+- [ ]  ~~Take this day to take a break or review everything you have learned up until this point and review practice questions which you got wrong.~~ 
 
 # Day #44 
 

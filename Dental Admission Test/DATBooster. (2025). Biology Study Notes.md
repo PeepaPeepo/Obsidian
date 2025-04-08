@@ -1757,6 +1757,11 @@ Fixed Action patterns are like fixed scripts.
 
 ## 26.2 Conditioned Learning
 
+[[Learned Behavior]] from experience and interaction from surrounding
+Associative learning is the association between multiple stimuli
+[[Classical Conditioning]] converts [[Neutral Stimulus]] to [[Conditioned Stimulus]]
+[[Associative Learning]]
+[[Neutral ]]
 
 # Bio Bits
 
