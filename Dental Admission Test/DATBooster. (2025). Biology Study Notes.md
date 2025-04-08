@@ -1767,7 +1767,12 @@ Associative learning is the association between multiple stimuli
 ## 26.3 Animal Learning Types
 
 [[Operant Conditioning]] trial and error with reward and punishment
+[[Rewards]] are good stuff for behaviors
+[[Punishment]] is anything that is unpleasant, and typically deters actions
+Negative and Positive refers to giving or removing either punishment or rewards
 
+[[Spatial Learning]] ls like logging a map in their head
+[[Associative Learning]] lea
 
 # Bio Bits
 
