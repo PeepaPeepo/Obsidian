@@ -1778,7 +1778,10 @@ Negative and Positive refers to giving or removing either punishment or rewards
 ## 26.4 Stimulus Reactions
 
 [[Habituation]] leads to decreased response to repeated stimulus that has no effect over time, getting used to stimulus
-[[Spontaneous Recovery]] is recovr
+[[Spontaneous Recovery]] is reverting back from a [[Habituation]]
+[[Sensitization]] is an opposite of habituation
+[[Stimulation Generalization]] is similar response that seems similar to a bad or good experience
+[[Stimulus Discrimination]] 
 
 # Bio Bits
 
