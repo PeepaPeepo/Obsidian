@@ -1141,3 +1141,7 @@ LiAlH_$
 ## Preparation of Acid Chlorides
 
 Acid Chloride is the most reactive because chlorine is a really good leaving group
+
+## Neutralizing HCl Byproduct Produced
+
+[[Pyridine]] neutralizes HCl byproduct
