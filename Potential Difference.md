@@ -1,0 +1,1 @@
+Potential difference is the difference in [[Voltage]] between two points.
