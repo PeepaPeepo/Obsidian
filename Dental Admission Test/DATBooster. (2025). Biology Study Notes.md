@@ -1820,6 +1820,21 @@ Biosphere is everything on the planet
 Population Ecology is the distribution of species described by size, density, and dispersion
 Determination of distribution defined caused by physically out of reach, behavioral preference, does biotic factors affect it?
 
+## 27.2 Population Growth and Survivorship Curve
+
+[[Biotic Potential]] is the maximum growth rate under ideal conditions
+Factors include number of babies or how often babies are made, then if the baby survives
+Reproductive lifetime is how long an organism can reproduce
+
+### Carry Capacity
+
+Limit for individuals a habitat can sustain
+
+### Limiting Factor
+
+Density Dependent Factors is proportional to density
+Negative Feedback 
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
