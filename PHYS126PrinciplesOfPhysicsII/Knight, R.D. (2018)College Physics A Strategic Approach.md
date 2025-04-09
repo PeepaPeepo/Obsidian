@@ -489,7 +489,12 @@ Look for corkscrew shapes
 
 $$\sum I_{in}=\sum I_{out}$$
 
+Note that [[Current]] is represented as variable, $I$, and the units are in [[Amperes]]
+This junction law follows the [[Conservation of Charge]]
 
+[[Kirchoff's Loop Law]] states that the net change in electric potential in a closed loop has to be zero.
+
+[[Electrical Potential]] is the same as [[Voltage]]
 ## 2025 04 07 Review
 
 - $F=\frac{mv^2}{r}=qVB$ Will pop up in midterm 
