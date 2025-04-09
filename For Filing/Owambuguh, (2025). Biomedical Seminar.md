@@ -135,3 +135,6 @@ Middle Tier bulk 10 - 15
 25 - 30 range
 
 Look at favor in residencies program
+
+# 2025 04 09
+
