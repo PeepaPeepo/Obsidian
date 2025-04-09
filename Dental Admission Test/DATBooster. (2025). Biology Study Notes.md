@@ -1807,6 +1807,14 @@ Migration for breeding, food or better envir
 
 ## 27.1 Terminology & Population Ecology
 
+Ecology studies interaction between organisms and environment
+Population is a group of individuals of same species in same area
+Community includes different populations of living populations
+Ecosystem includes communities and abiotic factors
+Habitat is just the physica surroundings
+Biosphere is everything on the planet 
+
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?

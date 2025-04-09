@@ -395,11 +395,11 @@ Need to really sit down and do the math and engage, very difficult.
 # Day #45 
 
 - [ ] Watch DATBooster’s Biology Videos: Ecology  
-- [ ] Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 25-47) in detail and memorize only key concepts – After reviewing this chapter, try to review everything up until this point again.    
-- [ ] Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so. 
-- [ ] Read DATBooster’s Organic Chemistry Notes: Ch 12. Free Radical and Diels Alder Cycloaddition Reactions  
-- [ ] Watch DATBooster’s Organic Chemistry Videos: Free Radical Chemistry (9.1 - 9.4) & Synthetic Strategy (10.1 - 10.6) if you are having trouble with understanding the concepts in Ch 12. (Recommended) 
-- [ ] Complete DATBooster’s Organic Chemistry Questions Banks: Free Radical & Diels Alder Cycloaddition Reactions 
+- [ ] ~~Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 25-47) in detail and memorize only key concepts – After reviewing this chapter, try to review everything up until this point again.~~    
+- [ ] ~~Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so.~~ 
+- [ ] ~~Read DATBooster’s Organic Chemistry Notes: Ch 12. Free Radical and Diels Alder Cycloaddition Reactions~~  
+- [ ] ~~Watch DATBooster’s Organic Chemistry Videos: Free Radical Chemistry (9.1 - 9.4) & Synthetic Strategy (10.1 - 10.6) if you are having trouble with understanding the concepts in Ch 12. (Recommended)~~ 
+- [ ] ~~Complete DATBooster’s Organic Chemistry Questions Banks: Free Radical & Diels Alder Cycloaddition Reactions~~ 
 
 Day #46 
 - [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 1 to 10) in detail and memorize only 
