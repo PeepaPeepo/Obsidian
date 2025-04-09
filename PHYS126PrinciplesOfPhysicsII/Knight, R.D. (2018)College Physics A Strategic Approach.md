@@ -513,3 +513,6 @@ Potential Difference does not always result in EMF
 
 ### Lenz's Law
 
+
+
+## 25.4 Faraday's Law
