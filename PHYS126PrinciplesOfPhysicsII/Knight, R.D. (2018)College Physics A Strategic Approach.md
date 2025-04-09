@@ -506,3 +506,4 @@ Look for corkscrew shapes
 
 ## 25.3 Magnetic Flux and Lenz's Law
 
+Potential Difference does not always result in EMF
