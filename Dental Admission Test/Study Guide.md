@@ -401,20 +401,17 @@ Need to really sit down and do the math and engage, very difficult.
 - [ ] ~~Watch DATBooster’s Organic Chemistry Videos: Free Radical Chemistry (9.1 - 9.4) & Synthetic Strategy (10.1 - 10.6) if you are having trouble with understanding the concepts in Ch 12. (Recommended)~~ 
 - [ ] ~~Complete DATBooster’s Organic Chemistry Questions Banks: Free Radical & Diels Alder Cycloaddition Reactions~~ 
 
-Day #46 
-- [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 1 to 10) in detail and memorize only 
-key concepts 
-- [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology 
-concepts if you have not already done so.  
-- [ ]  Watch Quantitative Reasoning Videos: Statistics and Data Analysis (6.1-6.3) 
-- [ ]  Complete Statistics and Data Analysis - Question Banks 1-3 (30 questions) 
-2025 Edition (Updated: 1/22/2025)
- DATBooster | Booster PrepTM
-20
- - [ ]  Use DATBooster’s Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question 
-Banks to practice 10 questions each. 
-- [ ]  Use DATBooster’s Cube Counting Generators to practice 10 questions. 
-Day #47 
+# Day #46 
+
+- [ ] Read Feralis-Booster Expanded 2022 Biology Notes (Pages 1 to 10) in detail and memorize only key concepts 
+- [ ] Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so.  
+- [ ] Watch Quantitative Reasoning Videos: Statistics and Data Analysis (6.1-6.3) 
+- [ ] Complete Statistics and Data Analysis - Question Banks 1-3 (30 questions) 
+- [ ] Use DATBooster’s Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
+- [ ] Use DATBooster’s Cube Counting Generators to practice 10 questions. 
+
+# Day #47 
+
 - [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 11 to 29) in detail and memorize only 
 key concepts, until RNA Splicing 
 - [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology 

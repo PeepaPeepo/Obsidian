@@ -1813,7 +1813,12 @@ Community includes different populations of living populations
 Ecosystem includes communities and abiotic factors
 Habitat is just the physica surroundings
 Biosphere is everything on the planet 
-
+[[Biotic Factors|Biotic]] vs [[Abiotic Factors]]
+[[Niche]] is a specific environment a organism lives and what it uses to survive
+[[Realized Niche]] is the actual used niche
+[[Fundamental Niche]] is a compatible niche
+Population Ecology is the distribution of species described by size, density, and dispersion
+Determination of distribution defined caused by physically out of reach, behavioral preference, does biotic factors affect it?
 
 # Bio Bits
 
