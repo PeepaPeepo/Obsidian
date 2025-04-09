@@ -476,6 +476,19 @@ Look for corkscrew shapes
 
 ## Chapter 23 Circuits
 
+### 23.1 Circuit Elements and Diagrams
+
+[[Circuit Diagrams]] depict a "logical" picture of of circuits with standardized notation.
+
+
+![[Pasted image 20250409163305.png]]
+
+### 23.2 Kirchoff's Laws
+
+[[Current]] going into a junction is always equal to total out going current, and it's known as [[Kirchoff's Junction Law]] where 
+
+$$\sum I_{in}=\sum I_{out}$$
+
 
 ## 2025 04 07 Review
 
