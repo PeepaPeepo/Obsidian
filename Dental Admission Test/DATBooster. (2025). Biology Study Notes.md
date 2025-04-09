@@ -1844,6 +1844,16 @@ Would typically look exponential
 Lag phase, exponential rate, stationary phase, and death phase
 ## Population Cycle
 
+### Survivorship Curves
+
+Described as Type I, Type II, and Type III
+
+### Reproductive Strategies
+
+K-Selected Species is quality over quantity reproduction
+R-Selected is quantity over quality of parenthood
+
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
