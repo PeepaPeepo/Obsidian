@@ -1865,8 +1865,11 @@ Interactions between species in a community
 [[Intraspecific Interactions]]
 [[Resource Partitioning]] helps coexistence between in different species within the same niche
 Character Displacement refers to trait divergence caused by competition
-[[Interference Competition]]
-
+[[Interference Competition]] Aggress at each other
+[[Exploitation Competition]] depleting a shared resource
+[[Apparent Competition]] preyed upon predator
+[[Exploitation]] includes predators, parasites, parasitoid, and herbivores
+[[Commensalism]], [[Mutualism]], and [[Parasitism]]
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
