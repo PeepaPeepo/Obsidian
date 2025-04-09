@@ -490,19 +490,9 @@ Look for corkscrew shapes
 - Test on paramagnet or diamagnet
 - No math on ferromagnetism
 
-# 2025 04 09 Lecture
-
-## Chapter 25 Electromagnetic Induction
-
-### Expected learning outcome
-
-Induced currents, magentic flux and inducned currents, lenz law, faradaw's law, properties of electromagnetic wave, photon model of light, electromagnetic spectrum, relationship between color and light.
-
-Induced current in a coil of a wire can be caused by a magnet being moved into or out of a coil.
-
-### Electromagnetic Induction
-
 # Chapter 25 Em Induction and EM Waves
+
+04/09/2025 Lecture
 
 ## 25.1 Induced Currents
 
