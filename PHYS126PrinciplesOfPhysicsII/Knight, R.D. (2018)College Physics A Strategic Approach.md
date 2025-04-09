@@ -496,3 +496,13 @@ Look for corkscrew shapes
 
 ## 25.1 Induced Currents
 
+## 25.2 Motional emf
+
+## Generators
+
+[[Generators]] converts [[Mechanical Energy]] into [[Electrical Energy]], and includes things like wind turbines
+
+[[Generators]] uses a rotating loop of wire between two magnets.
+
+## 25.3 Magnetic Flux and Lenz's Law
+
