@@ -489,3 +489,6 @@ Look for corkscrew shapes
 - Ferromagnetism paramagnet and diamagnets
 - Test on paramagnet or diamagnet
 - No math on ferromagnetism
+
+# 2025 04 09 Lecture
+
