@@ -33,6 +33,151 @@ Multiple organisms start making [[Populations]] in a specific area
 
 # 2. Biochemistry
 
+## 3.1 Cell Theory
+
+A Cell is a collection of organelles, which are made up of macromolecules
+Plant cells looked like small rooms
+==Three tenets of cell theory is that organisms are made of one or more cells, cells are basic units of structure and organization in organisms, and the come from existing cells.==
+Modern version adds more tenets, activity of organisms depend on total activity of independent cells, flow of energy occurs within cells, Cells pass and carry hereditary information such as DNA, all cells have similar composition in same species.
+Some organisms are unicellular or multicellular.
+Cells are bound with a plasma membrane
+Cells contain DNA 
+All ribosomes are there to make proteins
+Two cells major cells are prokaryotic cells and eukaryotic cells.
+[[Prokaryotes|Prokaryotic]] Cells do not have membrane bound nucleus or organelles,
+[[Eukarya|Eukaryotic]] cells do.
+
+## 3.2 Cell Membrane & Permeability
+
+The plasma membrane protects cells from its environment
+It is made of a phospholipid bilayer
+The bilayer is made of two layers of phsopliibid molecules, it makes up majority of the memabrne.
+It is made of the macromolecule lipid of phospolipid.
+The head is hydrophilic phosphate, fatty acid is hydrophobic
+The membrane is selectively permeable
+It depends on charge on size
+The Fluid Mosaic Model is a concept that membrane is made of many different parts, and the fluid describes that the component are constantly moving
+==[[Cholesterols]] are responsible for regulating [[Membranes]] fluidity.== It holds the membrane together at high temperatures, and fluid at lower temperatures.
+Rough ER and Smooth Er
+Rough ER has many ribsomes and it does post translation 
+Smooth ER has no er, it makes lipids and steroids hormones
+Breaks down toxins and drugs
+Gologi Apparatus modifiy and package protiens, it makes lysosomes, then transports in vesicles
+It does not make proteins
+## ==3.3 Organelles & Cell Structures==
+
+Eukaryotic Cell Organelles
+Organelle is the functional units of cells, the most important one are: nucleus which contains DNA. Which is made of a nuclear envelope, lamina which is support, and nucleolus.
+Most cells have a single nuclus
+Nucleolus is a site for RNA, and it assembiles ribosomes.
+DNA is packaged into the nucleus, chromatins are the general pakcing for dna.
+DNa is warpped around histone bundled in nucleosomes
+Chromosomes man
+Cytosol and Cytoplasm
+Cytosol is the aqeous substance
+Cytoplasm is everything that the includes all the cytosol that holds
+Ribosomes synthesize proteins
+Each are made in rRNA and Protein
+==[[Histones]] are [[Proteins]] that [[Deoxyribonucleic Acid|DNA]] wraps around, then the complex structure is a [[Nucleosomes]].==
+[[Ribosomes]] are found in both [[Prokaryotes]] and [[Eukarya|Eukaryotes]]
+==[[Eukarya|Eukaryotic]] ribosomal subuts are 60s and 40s which make 80s==
+==Prokaryotic subnits are 50 and 30s and make 70s==
+==S is svedberg units==
+==The [[Cis Golgi]] is closes to the [[Endoplasmic Reticulum|ER]]==
+==Smooth ER makes lipids, steroids, and detoxifying cells==
+## ==3.4 Cell Digestion & Assorted Structures==
+
+Cells breakdown stuff frequently
+[[Lysosomes]] are membrane bound and filled with digest enzymes
+It can perform apoptosis, autophagy, and break down nutrients 
+Peroxisomes can make h2o2 to break down fatty acids and proteins
+Vauoles have specialized functions liek transport to moe materials
+Food vacuoles to transport foods
+central vaculols are plant specialized
+Contractile cells collect and pump water excess
+Cytoskeletons maintains shape and support of cells
+Its like a highway
+Allows cells to move
+It can anchor proteins
+Its made of microfilaments, intermediate filaments, and microtubules
+ Microtubules make up cilia, falgella, and centrioles
+ Microvilli are membrane projects from actin core, it increases surface area of cells
+ Centrioles do not have membranes, they are organizing centers.
+## 3.5 Energy Production & Endosymbiotic Theory
+
+Mitochondria is double layered organelle
+They have their own dna and ribosomes
+They create ATP and is place for beta-oxidation
+Chloroplasts are sites for syntheis that uses light energy to make sugar
+It absorbs red and blue light and reflects green
+[[Endosymbiont Theory]] Mitrochondria and chloroplast used to be independe prokaryotes
+Then they eventally got together
+Evidence is the circular dna, divde via binary fission, then contains other structures similar to bactera
+Animal and Plant cells
+Plants have cell walls
+Animal cells have centrioles
+Plastids 
+Storage vacuoles have 
+Cell walls
+
+## ==3.6 Membrane Proteins==
+
+Proteins found in membrane, categorized by position
+Peripheral Protein, they on surface and held with hydrogen bonds
+Inetegral are integrated into membrane, if it goes all they way it is a transmembrane protein 
+They are mostly hydrophic and needs something like detergent to break it out
+Transport Proteins lets substances move through the membrane
+Channel Proteins can include ion channels that allow [[Ions]] to pass through the membrane
+Some ion channels are either voltage or mechanically gated, or even ligand gated
+Carrier proteins are for transport of maybe large ones?
+Receptor proteins 
+Glycoproteins have carbs attached, its used for signalling or recogniztions and adhesion
+Enzymes can be embedded into it
+Junctions can connect cells to another cell
+Tight junctions really lock in the cells together
+They are common in the blood brain barrier
+Adherens Junctions 
+[[Gap Junctions]] Make tunnels between cells, it allows molecules or ions to be transported 
+Celll ORientation
+Apical is outward side of cell like cilia are on it
+Lateral surface is side of cell
+Basal side is the bottom
+
+## 3.7 Cell Transport
+
+[[Passive Transport]] and [[Active Transport]], named based on if energy is required to perform action.
+[[Adenosine Triphosphate|ATP]] is the main source of work.
+[[Active Transport]] helps move substances away from where they naturally want to chill.
+[[Passive Transport]] includes [[Simple Diffusion]] and [[Facilitated Diffusion]]
+Facilitated diffusion is helped with a transmembrane transport protein
+[[Active Transport]] requires transport proteins
+[[Secondary Active Transport]] doesn't use ATP, but uses existing natural movement of things like ions. But it can be either same or anti way directions.
+[[Exocytosis]] can be triggered with increase of Ca Ions.
+[[Endocytosis]] has three different formats: [[Phagocytosis]] which is like eating substances, [[Pinocytosis]] is like drinking and is indiscriminate. [[Receptor-Mediated Endocytosis]] which [[Clathrin Coated Pits]].
+[[Diffusion]] and [[Osmosis]] refers to solutes or solvents travelling through semi permeable membranes.
+
+Osmosis in animal cells.
+Hypo, Hyper, and iso refer to surrounding solution concentration.
+Hypotonic solutions bursts cells.
+Solution types always refer to osmosis.
+
+Plant cells is differenet beacuse of their cell walls
+Hypotonic solutions leads to turgidity 
+Isotonic Soluions lead to flaccidness 
+Hypertonic leads to 
+
+## 3.8 Outer Cell and Intracellular Movement
+
+Cell walls are extra layers found in bacteria, plants, fungi, and protists.
+Bacteria uses peptidoglycan
+Plan uses cellulose
+Fungi uses chitin
+Gram negtaive have lipopolysaccharides  nad release toxics when dead
+Gylcocalyx is found on inside of blood vessels 
+Extracellular Matrix can be made of proteins, and polysccharides 
+Three functions are structureal support, adhesion, and signalling
+
+
 ## 2.1 Chemical Context of Life
 
 All [[Organisms]] are made of [[Matter]], which is anything that takes up of space.
@@ -654,153 +799,6 @@ Continue from Question 16.
 # Photosynthesis
 
 ### 6.1 Chloroplast Anatomy
-
-
-# 3 Cells and Organelles
-
-## 3.1 Cell Theory
-
-A Cell is a collection of organelles, which are made up of macromolecules
-Plant cells looked like small rooms
-==Three tenets of cell theory is that organisms are made of one or more cells, cells are basic units of structure and organization in organisms, and the come from existing cells.==
-Modern version adds more tenets, activity of organisms depend on total activity of independent cells, flow of energy occurs within cells, Cells pass and carry hereditary information such as DNA, all cells have similar composition in same species.
-Some organisms are unicellular or multicellular.
-Cells are bound with a plasma membrane
-Cells contain DNA 
-All ribosomes are there to make proteins
-Two cells major cells are prokaryotic cells and eukaryotic cells.
-[[Prokaryotes|Prokaryotic]] Cells do not have membrane bound nucleus or organelles,
-[[Eukarya|Eukaryotic]] cells do.
-
-## 3.2 Cell Membrane & Permeability
-
-The plasma membrane protects cells from its environment
-It is made of a phospholipid bilayer
-The bilayer is made of two layers of phsopliibid molecules, it makes up majority of the memabrne.
-It is made of the macromolecule lipid of phospolipid.
-The head is hydrophilic phosphate, fatty acid is hydrophobic
-The membrane is selectively permeable
-It depends on charge on size
-The Fluid Mosaic Model is a concept that membrane is made of many different parts, and the fluid describes that the component are constantly moving
-==[[Cholesterols]] are responsible for regulating [[Membranes]] fluidity.== It holds the membrane together at high temperatures, and fluid at lower temperatures.
-Rough ER and Smooth Er
-Rough ER has many ribsomes and it does post translation 
-Smooth ER has no er, it makes lipids and steroids hormones
-Breaks down toxins and drugs
-Gologi Apparatus modifiy and package protiens, it makes lysosomes, then transports in vesicles
-It does not make proteins
-## ==3.3 Organelles & Cell Structures==
-
-Eukaryotic Cell Organelles
-Organelle is the functional units of cells, the most important one are: nucleus which contains DNA. Which is made of a nuclear envelope, lamina which is support, and nucleolus.
-Most cells have a single nuclus
-Nucleolus is a site for RNA, and it assembiles ribosomes.
-DNA is packaged into the nucleus, chromatins are the general pakcing for dna.
-DNa is warpped around histone bundled in nucleosomes
-Chromosomes man
-Cytosol and Cytoplasm
-Cytosol is the aqeous substance
-Cytoplasm is everything that the includes all the cytosol that holds
-Ribosomes synthesize proteins
-Each are made in rRNA and Protein
-==[[Histones]] are [[Proteins]] that [[Deoxyribonucleic Acid|DNA]] wraps around, then the complex structure is a [[Nucleosomes]].==
-[[Ribosomes]] are found in both [[Prokaryotes]] and [[Eukarya|Eukaryotes]]
-==[[Eukarya|Eukaryotic]] ribosomal subuts are 60s and 40s which make 80s==
-==Prokaryotic subnits are 50 and 30s and make 70s==
-==S is svedberg units==
-==The [[Cis Golgi]] is closes to the [[Endoplasmic Reticulum|ER]]==
-==Smooth ER makes lipids, steroids, and detoxifying cells==
-## ==3.4 Cell Digestion & Assorted Structures==
-
-Cells breakdown stuff frequently
-[[Lysosomes]] are membrane bound and filled with digest enzymes
-It can perform apoptosis, autophagy, and break down nutrients 
-Peroxisomes can make h2o2 to break down fatty acids and proteins
-Vauoles have specialized functions liek transport to moe materials
-Food vacuoles to transport foods
-central vaculols are plant specialized
-Contractile cells collect and pump water excess
-Cytoskeletons maintains shape and support of cells
-Its like a highway
-Allows cells to move
-It can anchor proteins
-Its made of microfilaments, intermediate filaments, and microtubules
- Microtubules make up cilia, falgella, and centrioles
- Microvilli are membrane projects from actin core, it increases surface area of cells
- Centrioles do not have membranes, they are organizing centers.
-## 3.5 Energy Production & Endosymbiotic Theory
-
-Mitochondria is double layered organelle
-They have their own dna and ribosomes
-They create ATP and is place for beta-oxidation
-Chloroplasts are sites for syntheis that uses light energy to make sugar
-It absorbs red and blue light and reflects green
-[[Endosymbiont Theory]] Mitrochondria and chloroplast used to be independe prokaryotes
-Then they eventally got together
-Evidence is the circular dna, divde via binary fission, then contains other structures similar to bactera
-Animal and Plant cells
-Plants have cell walls
-Animal cells have centrioles
-Plastids 
-Storage vacuoles have 
-Cell walls
-
-## ==3.6 Membrane Proteins==
-
-Proteins found in membrane, categorized by position
-Peripheral Protein, they on surface and held with hydrogen bonds
-Inetegral are integrated into membrane, if it goes all they way it is a transmembrane protein 
-They are mostly hydrophic and needs something like detergent to break it out
-Transport Proteins lets substances move through the membrane
-Channel Proteins can include ion channels that allow [[Ions]] to pass through the membrane
-Some ion channels are either voltage or mechanically gated, or even ligand gated
-Carrier proteins are for transport of maybe large ones?
-Receptor proteins 
-Glycoproteins have carbs attached, its used for signalling or recogniztions and adhesion
-Enzymes can be embedded into it
-Junctions can connect cells to another cell
-Tight junctions really lock in the cells together
-They are common in the blood brain barrier
-Adherens Junctions 
-[[Gap Junctions]] Make tunnels between cells, it allows molecules or ions to be transported 
-Celll ORientation
-Apical is outward side of cell like cilia are on it
-Lateral surface is side of cell
-Basal side is the bottom
-
-## 3.7 Cell Transport
-
-[[Passive Transport]] and [[Active Transport]], named based on if energy is required to perform action.
-[[Adenosine Triphosphate|ATP]] is the main source of work.
-[[Active Transport]] helps move substances away from where they naturally want to chill.
-[[Passive Transport]] includes [[Simple Diffusion]] and [[Facilitated Diffusion]]
-Facilitated diffusion is helped with a transmembrane transport protein
-[[Active Transport]] requires transport proteins
-[[Secondary Active Transport]] doesn't use ATP, but uses existing natural movement of things like ions. But it can be either same or anti way directions.
-[[Exocytosis]] can be triggered with increase of Ca Ions.
-[[Endocytosis]] has three different formats: [[Phagocytosis]] which is like eating substances, [[Pinocytosis]] is like drinking and is indiscriminate. [[Receptor-Mediated Endocytosis]] which [[Clathrin Coated Pits]].
-[[Diffusion]] and [[Osmosis]] refers to solutes or solvents travelling through semi permeable membranes.
-
-Osmosis in animal cells.
-Hypo, Hyper, and iso refer to surrounding solution concentration.
-Hypotonic solutions bursts cells.
-Solution types always refer to osmosis.
-
-Plant cells is differenet beacuse of their cell walls
-Hypotonic solutions leads to turgidity 
-Isotonic Soluions lead to flaccidness 
-Hypertonic leads to 
-
-## 3.8 Outer Cell and Intracellular Movement
-
-Cell walls are extra layers found in bacteria, plants, fungi, and protists.
-Bacteria uses peptidoglycan
-Plan uses cellulose
-Fungi uses chitin
-Gram negtaive have lipopolysaccharides  nad release toxics when dead
-Gylcocalyx is found on inside of blood vessels 
-Extracellular Matrix can be made of proteins, and polysccharides 
-Three functions are structureal support, adhesion, and signalling
 
 
 # 11 Diversity of Life
@@ -1697,7 +1695,7 @@ Enhave sensitivity to pain
 ==What are the effects?==
 # 25 Evolution
 
-# 25.1 Evolution
+## 25.1 Evolution
 
 Evolution is the change of [[Allele Frequencies]] within a population over time.
 [[Microevolution]] is the change of [[Allele Frequencies]] due to things like genetic mutation, selection, gene flow, gene drift, and non random mating. ==This didn't mention how fast it occurs==
@@ -1834,6 +1832,17 @@ Limit for individuals a habitat can sustain
 
 Density Dependent Factors is proportional to density
 Negative Feedback 
+[[Density-Independent Factors]] include natural disasters where it doesn't depend on density at all
+
+### Population Growth
+
+Would typically look exponential
+[[Logistic Population Growth Model]] slows down the curve around the carrying capacity
+
+### Bacterial Growth
+
+Lag phase, exponential rate, stationary phase, and death phase
+## Population Cycle
 
 # Bio Bits
 
