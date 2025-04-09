@@ -1853,6 +1853,10 @@ Described as Type I, Type II, and Type III
 K-Selected Species is quality over quantity reproduction
 R-Selected is quantity over quality of parenthood
 
+## 27.3 Species Diversity 
+
+Species Richness is defined by total number of different species in community
+Relative Abundance is a proportion of species within communities
 
 # Bio Bits
 
