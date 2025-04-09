@@ -502,3 +502,7 @@ Induced current in a coil of a wire can be caused by a magnet being moved into o
 
 ### Electromagnetic Induction
 
+# Chapter 25 Em Induction and EM Waves
+
+## 25.1 Induced Currents
+
