@@ -1858,6 +1858,15 @@ R-Selected is quantity over quality of parenthood
 Species Richness is defined by total number of different species in community
 Relative Abundance is a proportion of species within communities
 
+## 27.4 Community Ecology
+
+Interactions between species in a community
+[[Interspecific Interactions]] need to result in one winner eventually
+[[Intraspecific Interactions]]
+[[Resource Partitioning]] helps coexistence between in different species within the same niche
+Character Displacement refers to trait divergence caused by competition
+[[Interference Competition]]
+
 # Bio Bits
 
 Which of the following defines how slime molds obtain energy?
