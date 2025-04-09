@@ -444,7 +444,7 @@ The electric field states what type of force would occur if a charge is present
 [[Electric Potential]] is measured in [[volt]], V.
 
 $$1\ volt=1 V=1 J/C$$
-## 21.2 Sources of Electric Potential
+### 21.2 Sources of Electric Potential
 
 [[Electric Potential]] is created when charges are separated
 If there is no difference between electric potential energy, there is a [[Potential Difference]] of zero.
@@ -455,7 +455,7 @@ The potential difference between two points is called [[Voltage]]
 
 [[Voltmeters]] measured the [[Potential Difference]] between two points.
 
-## 21.3 Electric Potential and Conservation of Energy
+### 21.3 Electric Potential and Conservation of Energy
 
 
 ### 21.4 Calculating the Electrical Potential
@@ -470,11 +470,14 @@ Inverse proportion
 
 Just read the book and do the book problems
 
-# Paths of Charged Particles in a Uniform Magnetic Field
+### Paths of Charged Particles in a Uniform Magnetic Field
 
 Look for corkscrew shapes
 
-# 2025 04 07 Review
+## Chapter 23 Circuits
+
+
+## 2025 04 07 Review
 
 - $F=\frac{mv^2}{r}=qVB$ Will pop up in midterm 
 - $r=\frac{mv}{qB}$ for Radius of Circular path in the context of mass spectrometer
@@ -490,21 +493,21 @@ Look for corkscrew shapes
 - Test on paramagnet or diamagnet
 - No math on ferromagnetism
 
-# Chapter 25 Em Induction and EM Waves
+## Chapter 25 Em Induction and EM Waves
 
 04/09/2025 Lecture
 
-## 25.1 Induced Currents
+### 25.1 Induced Currents
 
-## 25.2 Motional emf
+### 25.2 Motional emf
 
-## Generators
+#### Generators
 
 [[Generators]] converts [[Mechanical Energy]] into [[Electrical Energy]], and includes things like wind turbines
 
 [[Generators]] uses a rotating loop of wire between two magnets.
 
-## 25.3 Magnetic Flux and Lenz's Law
+### 25.3 Magnetic Flux and Lenz's Law
 
 Potential Difference does not always result in EMF
 [[Magnetic Flux]] measures amount of magnetic field passing through a loop of an Area with a tilt of $\theta$
@@ -515,4 +518,4 @@ Potential Difference does not always result in EMF
 
 
 
-## 25.4 Faraday's Law
+### 25.4 Faraday's Law
