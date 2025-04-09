@@ -394,7 +394,7 @@ Need to really sit down and do the math and engage, very difficult.
 
 # Day #45 
 
-- [ ] Watch DATBooster’s Biology Videos: Ecology  
+- [ ] Watch DATBooster’s Biology Videos: Ecology  ==(inprogress)==
 - [ ] ~~Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 25-47) in detail and memorize only key concepts – After reviewing this chapter, try to review everything up until this point again.~~    
 - [ ] ~~Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so.~~ 
 - [ ] ~~Read DATBooster’s Organic Chemistry Notes: Ch 12. Free Radical and Diels Alder Cycloaddition Reactions~~  
@@ -412,15 +412,14 @@ Need to really sit down and do the math and engage, very difficult.
 
 # Day #47 
 
-- [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 11 to 29) in detail and memorize only 
-key concepts, until RNA Splicing 
-- [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology 
-concepts if you have not already done so. 
+- [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 11 to 29) in detail and memorize only key concepts, until RNA Splicing 
+- [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so. 
 - [ ]  Read DATBooster’s Organic Chemistry Notes: Ch 13. Spectroscopy and Lab Techniques 
-- [ ]  Watch DATBooster’s Organic Chemistry Videos: Spectroscopy Lab Techniques (11.1 - 11.12) if you 
-are having trouble with understanding the concepts in Ch 13. (Recommended) 
+- [ ]  Watch DATBooster’s Organic Chemistry Videos: Spectroscopy Lab Techniques (11.1 - 11.12) if you are having trouble with understanding the concepts in Ch 13. (Recommended) 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Spectroscopy & Lab Techniques 
+
 Day #48 
+
 - [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 29 to 44) in detail and memorize – 
 After reviewing this chapter, try to review everything up until this point again. 
 - [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology 
