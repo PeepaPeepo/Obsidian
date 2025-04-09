@@ -507,3 +507,6 @@ Look for corkscrew shapes
 ## 25.3 Magnetic Flux and Lenz's Law
 
 Potential Difference does not always result in EMF
+[[Magnetic Flux]] measures amount of magnetic field passing through a loop of an Area with a tilt of $\theta$
+
+**Question:** If i gave teh dimennsions of the aroom and direction of the earth's magnetic filed, can you identify the flux?
