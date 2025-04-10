@@ -1121,6 +1121,8 @@ What is [[Electrophilic Aromatic Substitution]]?
 This isn't strong enough to occur when working with [[Benzene]].
 The presence of iron increases the electrophilicity of bromine because Fe reacts with Br2 to make Tribromide which is a better form to react with ben
 
+# 19 Int
+
 # Chapter 20 Carboxylic Acids and Derivatives
 
 
