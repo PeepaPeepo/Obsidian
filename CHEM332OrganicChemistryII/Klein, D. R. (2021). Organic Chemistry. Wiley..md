@@ -1154,6 +1154,8 @@ Some nucleophiles need basic conditions or acidic
 
 [[Grignard Reagent]] are destroyed in acidic conditions
 [[Nucleophilic Addition Under Basic Conditions]] 
+[[Nucleophilic Addition Under Acidic Conditions]]
+Equilibrium of a nucl
 
 
 # Chapter 20 Carboxylic Acids and Derivatives
