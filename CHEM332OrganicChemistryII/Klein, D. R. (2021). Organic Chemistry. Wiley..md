@@ -1134,10 +1134,11 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 
 [[Ketones]] can be made via [[Oxidation of Secondary Alcohols]], [[Ozonolysis of Alkenes]], [[Acid-Cataylzed Hydration of Terminal Alkynes]], and [[Friedel-Crafts Acylation]].
 
-## 19.4 Introduction to Nucleophilic Addition Reactions
+## 19.4 Introduction to Nucleophilic Addition Reactions (889)
 
 [[Electrophile|Electrophilic]] characteristics of [[Carbonyl Groups]] is from [[Resonance Hybrids]] and [[Induction]].
 [[Nucleophiles]] 
+
 
 
 # Chapter 20 Carboxylic Acids and Derivatives
