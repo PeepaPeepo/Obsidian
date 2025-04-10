@@ -6,4 +6,6 @@ $$\Delta V_{loop}=\sum_{i} \Delta V_{i}=0$$
 
 1. **Draw a circuit diagram.** and label known and unknown quantities
 2. **Assign a Direction to the [[Current]], $I$.**
-3. **"Travel" around the loop.**  Following the current it is either Downstream coming from positive, and going towards negative is upstream. A battery with a current from negative to posti
+3. **"Travel" around the loop.**  Following the current it is either Downstream coming from positive, and going towards negative is upstream. A battery with a current from negative to positive is  $\Delta V_{bat}=+\epsilon$, and in reverse the sign is flipped. A resistor is $\Delta V_{R}=-IR$
+4. **Apply the Loop Law:** $\sum \Delta_{i}=0$
+
