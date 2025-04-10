@@ -1140,7 +1140,11 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 [[Nucleophiles]] are negatively charged, partial or full.
 [[Electrophiles]] are positively charged, mostly from induction, resonance, or [[Carbocations]]
 
-[[Nucleophilic]]
+[[Nucleophilic Attacks]] on [[Carbonyl Groups]] results in [[sp3-Hybridized Orbitals]].
+
+[[Aldehydes]] are more reactive with [[Nucleophilic Attacks]] due to steric effects, and electronic effects. 
+
+The uneven donation from R group results in instability.
 
 
 # Chapter 20 Carboxylic Acids and Derivatives
