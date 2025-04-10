@@ -1,1 +1,1 @@
-The Coulomb is the SI Unit of [[Charge]]
+The Coulomb is the SI Unit of [[Charge]] and the symbol is $C$.

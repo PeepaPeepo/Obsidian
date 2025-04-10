@@ -495,6 +495,7 @@ This junction law follows the [[Conservation of Charge]]
 [[Kirchoff's Loop Law]] states that the net change in electric potential in a closed loop has to be zero.
 
 [[Electrical Potential]] is the same as [[Voltage]]
+[[Ohm's Law]]
 
 ### 23.3 Series and Parallel Circuits
 
