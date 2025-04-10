@@ -1171,6 +1171,7 @@ Reactions can be improved with [[Acids]] or [[Bases]] to create an acid or base 
 [[Base-Catalyzed Hydration]]
 [[Acid-Catalyzed Hydration]]
 
+Acidic environments seem to always protonate the oxygen of a ketone group.
 
 # Chapter 20 Carboxylic Acids and Derivatives
 

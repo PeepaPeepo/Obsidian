@@ -1,0 +1,1 @@
+[[Hydration]] is addition of a proton, $\ce{ H }$, and [[Hydroxyl Groups]], $\ce{ OH }$, across a [[Double Covalent Bonds]].

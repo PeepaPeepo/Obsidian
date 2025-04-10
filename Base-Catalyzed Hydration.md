@@ -3,3 +3,9 @@
 
 Note that the strong base is catalyzing a reaction between [[Aldehydes]], the [[Electrophiles]], and water, a [[Weak Nucleophiles]].
 
+# Etymology
+
+**Base** - Catalyzed **Hydration**
+
+**Base** is the $\ce{ OH- }$, which is strong
+[[Hydration]] 
