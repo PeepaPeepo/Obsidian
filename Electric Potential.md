@@ -14,4 +14,4 @@ $W = qV$ ?
 If 1 volt is 1 Joule/Coulomb then
 
 $$Work = q* \frac{J}{C}$$
-q = 
+q = [[Charge]] 
