@@ -1166,7 +1166,11 @@ Equilibrium of a nucleophile depends on capabilities as acting as a [[Leaving Gr
 Ketones are favored when introducing water
 but hydrates are favored with reacting with [[Aldehydes]]
 
-Reactions can be improved with [[Acids]] or [[Bases]]
+Reactions can be improved with [[Acids]] or [[Bases]] to create an acid or base catalyzed reaction.
+
+[[Base-Catalyzed Hydration]]
+[[Acid-Catalyzed Hydration]]
+
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
