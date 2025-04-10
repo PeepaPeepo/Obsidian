@@ -497,6 +497,8 @@ This junction law follows the [[Conservation of Charge]]
 [[Electrical Potential]] is the same as [[Voltage]]
 [[Ohm's Law]]
 
+**Figure 23.7**
+
 ### 23.3 Series and Parallel Circuits
 
 Two possible arrangements of components in circuits include [[Series Circuits]] and [[Parallel Circuits]].
