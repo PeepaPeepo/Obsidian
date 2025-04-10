@@ -1196,4 +1196,7 @@ Review how to make [[Grignard Reagent]]
 
 [[Amides]] can be from any of the [[Carboxylic Acid Derivatives]]
 [[Peptide Bonds]] are [[Amide Bonds]]
-![[Klein, D. R. (2021). Organic Chemistry. Wiley. 2025-04-10 10.27.38.excalidraw]]
+
+## Amide Reduction
+
+$\ce{ RC=ON }$
