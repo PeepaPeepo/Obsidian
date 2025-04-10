@@ -407,7 +407,7 @@ Need to really sit down and do the math and engage, very difficult.
 - [ ] ~~Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so.~~  
 - [ ] Watch Quantitative Reasoning Videos: Statistics and Data Analysis (6.1-6.3) 
 - [ ] Complete Statistics and Data Analysis - Question Banks 1-3 (30 questions) 
-- [ ] Use DATBooster’s Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
+- [ ] Use DATBooster’s ~~Top-Front-End~~, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
 - [ ] Use DATBooster’s Cube Counting Generators to practice 10 questions. 
 
 # Day #47 
