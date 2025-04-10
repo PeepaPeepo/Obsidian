@@ -1,7 +1,7 @@
 ---
 datecreated: 2024/08/19
 aliases:
-  - Organic Chemistry
+  - Organic Chemistry Book
 course:
 ---
 Klein, D. R. (2021). *Organic Chemistry*. Wiley.
@@ -1168,3 +1168,9 @@ Only sodium litium hydride reacts?
 
 Esters and Amides do not have good leaving groups
 [[Carboxylic Acid Derivatives]] look like or made from carboxylic acids
+
+## Ester Hydrolysis
+
+Consider leaving groups
+Acid Conditions are faster
+
