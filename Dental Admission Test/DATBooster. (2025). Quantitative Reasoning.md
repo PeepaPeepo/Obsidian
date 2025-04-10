@@ -147,4 +147,6 @@ Y= mx + b
 [[Mode]] are values that occur the most often, and can include multiples if there is an equal amount
 [[Range]] is maximum number minus lowest number
 
+## 6.2 Standard Deviation and Normal Distribution
+
 
