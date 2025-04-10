@@ -508,6 +508,8 @@ Two possible arrangements of components in circuits include [[Series Circuits]] 
 $$\sum_{i}\Delta V_{i}=\epsilon+\Delta V_{1}+\Delta V_{2}=0$$
 
 
+
+
 ## 2025 04 07 Review
 
 - $F=\frac{mv^2}{r}=qVB$ Will pop up in midterm 
