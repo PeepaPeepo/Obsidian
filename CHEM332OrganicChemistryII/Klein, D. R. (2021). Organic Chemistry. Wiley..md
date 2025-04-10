@@ -1199,4 +1199,5 @@ Review how to make [[Grignard Reagent]]
 
 ## Amide Reduction
 
-$\ce{ RC=ON }$
+==This is the weird reaction mechanism==
+[[Reaction Mechanisms]] 

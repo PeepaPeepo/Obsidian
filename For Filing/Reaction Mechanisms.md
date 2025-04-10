@@ -4,6 +4,8 @@ aliases:
   - Ionic Mechanisms
 course:
 ---
+tldr; Reaction mechanisms mostly are just made of four patterns, [[Nucleophilic Attacks]], [[Loss of Leaving Groups]], [[Proton Transfers]], and [[Rearrangements]]. It helps to identify if a reagent is an [[Acids]] or a [[Base]], then the magnitude of their strength.
+
 [[Reaction Mechanisms]] is a technique that depicts the flow of electrons within a reaction by using curved arrows. The curved arrows show electron origin and destinations. All Ionic Mechanisms are are a combination of four characteristic patterns: Nucleophilic Attack, Proton Transfer, Loss of a Leaving group, and Rearrangements.
 
 # Nucleophilic Attack
