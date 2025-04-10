@@ -499,7 +499,13 @@ This junction law follows the [[Conservation of Charge]]
 ### 23.3 Series and Parallel Circuits
 
 Two possible arrangements of components in circuits include [[Series Circuits]] and [[Parallel Circuits]].
+[[Series Circuits]] are connected directly to each other without the presence of junctions, and because of [[Kirchoff's Loop Law]] the current is conserved. Another feature is that two identical components will dissipate the same power.
 
+##### Series Resistors
+
+[[Kirchoff's Loop Law]] expresses the net potential differences as 
+
+$$\sum_{i}\Delta V_{i}=\epsilon+\Delta V_{1}+\Delta V_{2}=0$$
 
 
 ## 2025 04 07 Review
