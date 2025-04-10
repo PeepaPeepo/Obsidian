@@ -1201,3 +1201,5 @@ Review how to make [[Grignard Reagent]]
 
 ==This is the weird reaction mechanism==
 [[Reaction Mechanisms]] 
+==Anhydride with acid keeps reacting==
+==Grignard Reaection keeps going==
