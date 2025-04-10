@@ -498,7 +498,19 @@ This junction law follows the [[Conservation of Charge]]
 [[Ohm's Law]]
 
 **Figure 23.7**
+*Analysis of The Basic Circuit Using Kirchoff's loop law.*
 
+![[Figure 23.7 Analysis of The Basic Circuit Using Kirchoff's loop law.png]]
+
+1. "the potential increases as we travel through the battery"
+
+This indicates that following current, $I$, can be interpreted as from negative to positive flow; from downstream to upstream.
+
+$$\Delta V_{bat}=+\epsilon$$
+
+The mentioned formula is saying that from negative to positive, the difference increased.
+
+2. "The magnitude of the potential difference across the resistor is $\Delta V=IR$"
 ### 23.3 Series and Parallel Circuits
 
 Two possible arrangements of components in circuits include [[Series Circuits]] and [[Parallel Circuits]].
