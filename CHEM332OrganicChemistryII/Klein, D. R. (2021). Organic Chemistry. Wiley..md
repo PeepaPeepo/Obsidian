@@ -1146,6 +1146,11 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 
 The uneven donation from R group results in instability.
 
+Some nucleophiles need basic conditions or acidic 
+
+[[Grignard Reagent]] are very strong [[Nucleophiles]] that attach [[Aldehydes]] and [[Ketones]] to produce [[Alcohol]]
+
+
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
