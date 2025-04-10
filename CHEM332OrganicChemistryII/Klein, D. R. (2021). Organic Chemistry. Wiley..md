@@ -1183,3 +1183,9 @@ The nitrogen is protonated in this case.
 [[Esters]]
 
 ## Ester Reduction
+
+## Ester Reduction Aldehyde
+
+## Ester Reaction with Grignard Reagents
+
+Review how to make [[Grignard Reagent]]
