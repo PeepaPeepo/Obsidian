@@ -1155,8 +1155,13 @@ Some nucleophiles need basic conditions or acidic
 [[Grignard Reagent]] are destroyed in acidic conditions
 [[Nucleophilic Addition Under Basic Conditions]] 
 [[Nucleophilic Addition Under Acidic Conditions]]
-Equilibrium of a nucl
+Equilibrium of a nucleophile depends on capabilities as acting as a [[Leaving Group]]
 
+## 19.5 Oxygen Nucleophiles (892)
+
+### Hydrate Formation
+
+[[Hydrate]] is produced when [[Aldehydes]] or [[Ketones]] react with [[Weak Nucleophiles]], specifically water. 
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
