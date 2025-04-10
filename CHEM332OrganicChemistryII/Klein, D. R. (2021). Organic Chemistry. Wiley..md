@@ -393,7 +393,7 @@ looking at lone pairs and pi
 
 # Chapter 3 Acids and Bases
 
-[[Ionic reactions]] covers 95% of reactions in the textbook
+[[Ionic Reactions]] covers 95% of reactions in the textbook
 
 ## Do you remember?
 
