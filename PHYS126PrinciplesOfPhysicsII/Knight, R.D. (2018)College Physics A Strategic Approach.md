@@ -496,7 +496,10 @@ This junction law follows the [[Conservation of Charge]]
 
 [[Electrical Potential]] is the same as [[Voltage]]
 
-### Series and Parallel Circuits
+### 23.3 Series and Parallel Circuits
+
+Two possible arrangements of components in circuits include [[Series Circuits]] and [[Parallel Circuits]].
+
 
 
 ## 2025 04 07 Review
