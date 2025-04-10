@@ -511,6 +511,18 @@ $$\Delta V_{bat}=+\epsilon$$
 The mentioned formula is saying that from negative to positive, the difference increased.
 
 2. "The magnitude of the potential difference across the resistor is $\Delta V=IR$"
+
+This is saying that you can calculate the voltage drop before and after the resistor if the current and resistance is known. 
+
+**It is important to know that resisters always decrease the potential following the direction of the current** so that 
+
+$$\Delta V_{R}=-IR$$
+
+Then [[Kirchoff's Loop Law]] states that the sum of the voltages should equal zero.
+
+$\epsilon-IR=0$
+
+Then you can solve accordingly.
 ### 23.3 Series and Parallel Circuits
 
 Two possible arrangements of components in circuits include [[Series Circuits]] and [[Parallel Circuits]].
@@ -566,4 +578,4 @@ Potential Difference does not always result in EMF
 
 
 
-### 25.4 Faraday's Law
+### 25.4 Faraday's 
