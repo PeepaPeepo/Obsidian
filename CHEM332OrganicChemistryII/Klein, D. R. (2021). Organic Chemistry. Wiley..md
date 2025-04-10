@@ -330,7 +330,7 @@ Chemistry of organic compounds are determined by functional groups present in th
 [[Acyl Halide]]
 [[Anhydride]]
 [[Ester]]
-[[Amide]]
+[[Amides]]
 [[Amines]]
 
 ## 2.4 Carbon Atoms with Formal Charges
@@ -1189,3 +1189,10 @@ The nitrogen is protonated in this case.
 ## Ester Reaction with Grignard Reagents
 
 Review how to make [[Grignard Reagent]]
+
+## 20.12 Preparation and Reactions of Amides
+
+### Preparation of Amides
+
+[[Amides]] can be from any of the [[Carboxylic Acid Derivatives]]
+[[Peptide Bonds]] are [[Amide Bonds]]
