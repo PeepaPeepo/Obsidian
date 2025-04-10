@@ -315,7 +315,7 @@ Chemistry of organic compounds are determined by functional groups present in th
 [[Alcohol]] have [[Hydroxyl Groups]]
  ![[Pasted image 20240902162756.png]]
 
-[[Alkyl Halide]]
+[[Alkyl Halides]]
 [[Alkanes]]
 [[Alkenes]]
 [[Alkynes]]
@@ -1138,6 +1138,7 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 
 [[Electrophiles|Electrophilic]] characteristics of [[Carbonyl Groups]] is from [[Resonance Hybrids]] and [[Induction]].
 [[Nucleophiles]] 
+[[Electrophiles]]
 
 
 

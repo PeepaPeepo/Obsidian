@@ -5,3 +5,5 @@ aliases:
 course:
 ---
 [[Electrophiles]], $+$, love [[Electrons]], $-$.
+Electrophiles are any electron lacking molecule or ion, (a partial or full + charge)
+[[Alkyl Halides]] are molecules were halogens withdraw density from its connected carbon, leaving that specific carbon with a p

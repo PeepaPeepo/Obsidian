@@ -1,0 +1,1 @@
+[[Polarizability]] describes the ability of atoms to distribute their electrons unevenly. It is related to the size of the atom.

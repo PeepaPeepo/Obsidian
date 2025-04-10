@@ -52,7 +52,7 @@ The prefix is not referred to when alphabetically arranging the substituents.
 
 ### Halogen Substituents
 
-[[Alkyl Halide]] are any [[Alkanes]] with [[Halogens]] connected to them. Their prefix replaces their endings, -ine, with o.
+[[Alkyl Halides]] are any [[Alkanes]] with [[Halogens]] connected to them. Their prefix replaces their endings, -ine, with o.
 
 **Table 3**
 *Halogen Substituent Pre-Fixes*

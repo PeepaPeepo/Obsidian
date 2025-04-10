@@ -9,5 +9,7 @@ These are paired with a [[Cations]] metal to be used as a reagent.
 
 [[Polarizability]] 
 
+[[Pi Bonds]] of [[Alkenes]] function as [[Nucleophiles]]
+
 What makes a good nucleophile? #question 
 
