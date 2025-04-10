@@ -418,20 +418,18 @@ Need to really sit down and do the math and engage, very difficult.
 - [ ]  Watch DATBooster’s Organic Chemistry Videos: Spectroscopy Lab Techniques (11.1 - 11.12) if you are having trouble with understanding the concepts in Ch 13. (Recommended) 
 - [ ]  Complete DATBooster’s Organic Chemistry Questions Banks: Spectroscopy & Lab Techniques 
 
-Day #48 
+# Day #48 
 
-- [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 29 to 44) in detail and memorize – 
-After reviewing this chapter, try to review everything up until this point again. 
-- [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology 
-concepts if you have not already done so. 
-- [ ]  Complete Extra Reading Comprehension Practice #21 and 22 – Practice using the strategy that 
-works best for you. 
+- [ ]  Read Feralis-Booster Expanded 2022 Biology Notes (Pages 29 to 44) in detail and memorize – After reviewing this chapter, try to review everything up until this point again. 
+- [ ]  Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so. 
+- [ ]  Complete Extra Reading Comprehension Practice #21 and 22 – Practice using the strategy that works best for you. 
 - [ ]  Watch Quantitative Reasoning Videos: Statistics and Data Analysis (6.4-6.7) 
 - [ ]  Complete Statistics and Data Analysis - Question Banks 4-5 (30 questions) 
-- [ ]  Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding 
-Question Banks to practice 10 questions each. 
+- [ ]  Use DATBooster’s Keyhole, Top-Front-End, Angle Ranking, Hole Punching, and Pattern Folding Question Banks to practice 10 questions each. 
 - [ ]  Use DATBooster’s Cube Counting Generators to practice 10 questions. 
-Day #49 - Practice Test #2 
+
+# Day #49 - Practice Test #2 
+
 - [ ]  Take DATBooster’s Biology Test #2, General Chemistry Test #2, Organic Chemistry Test #2, 
 Perceptual Ability Test #2, Reading Comprehension Test #2, and Quantitative Reasoning #2 under 
 TIMED conditions. 
