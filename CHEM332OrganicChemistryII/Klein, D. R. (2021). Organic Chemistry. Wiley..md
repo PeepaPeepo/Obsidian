@@ -1163,6 +1163,11 @@ Equilibrium of a nucleophile depends on capabilities as acting as a [[Leaving Gr
 
 [[Hydrate]] is produced when [[Aldehydes]] or [[Ketones]] react with [[Weak Nucleophiles]], specifically water. 
 
+Ketones are favored when introducing water
+but hydrates are favored with reacting with [[Aldehydes]]
+
+Reactions can be improved with [[Acids]] or [[Bases]]
+
 # Chapter 20 Carboxylic Acids and Derivatives
 
 
