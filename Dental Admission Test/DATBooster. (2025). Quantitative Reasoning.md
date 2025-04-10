@@ -138,3 +138,10 @@ either open circules on graphs, with greater less than range
 Represents graph of straight line, highest degree is 1
 Y= mx + b
 
+# 6 Statistics and Data Analysis
+
+## 6.1 Mean-Median-Mode-Range
+
+[[Mean]] is the sum of the values divided by number of values.
+[[Median]] of a range is is the value in the middle of an odd set, if there is two in the middle then its the average of the two center numbers.
+[[Mode]] is 
