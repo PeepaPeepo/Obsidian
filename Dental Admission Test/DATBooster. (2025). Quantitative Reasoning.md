@@ -144,4 +144,7 @@ Y= mx + b
 
 [[Mean]] is the sum of the values divided by number of values.
 [[Median]] of a range is is the value in the middle of an odd set, if there is two in the middle then its the average of the two center numbers.
-[[Mode]] is 
+[[Mode]] are values that occur the most often, and can include multiples if there is an equal amount
+[[Range]] is maximum number minus lowest number
+
+
