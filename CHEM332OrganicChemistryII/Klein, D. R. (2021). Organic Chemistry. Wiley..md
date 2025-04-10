@@ -1123,7 +1123,16 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 
 # 19 Aldehydes and Ketones
 
+## 19.1 Introduction to Aldehydes
 
+[[Carbonyl Groups]] can either make [[Ketones]] or [[Aldehydes]].
+[[Carbonyl Groups]] are very common in [[Biomolecules]] like [[Progesterone]] and [[Testosterone]]
+
+## 19.3 Preparing Aldehydes and Ketones: A Review
+
+[[Aldehydes]] can be prepared with [[Oxidation of Primary Alcohols]], [[Ozonolysis of Alkenes]], and [[Hydroboration-Oxidation of Terminal Alkynes]].
+
+[[Ketones]] can be made via [[Oxidation of Secondary Al]]
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
