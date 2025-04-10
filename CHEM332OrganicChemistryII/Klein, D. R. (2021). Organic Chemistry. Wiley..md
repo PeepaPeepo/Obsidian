@@ -1137,9 +1137,10 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 ## 19.4 Introduction to Nucleophilic Addition Reactions (889)
 
 [[Electrophiles|Electrophilic]] characteristics of [[Carbonyl Groups]] is from [[Resonance Hybrids]] and [[Induction]].
-[[Nucleophiles]] 
-[[Electrophiles]]
+[[Nucleophiles]] are negatively charged, partial or full.
+[[Electrophiles]] are positively charged, mostly from induction, resonance, or [[Carbocations]]
 
+[[Nucleophilic]]
 
 
 # Chapter 20 Carboxylic Acids and Derivatives
