@@ -394,7 +394,7 @@ Need to really sit down and do the math and engage, very difficult.
 
 # Day #45 
 
-- [ ] Watch DATBooster’s Biology Videos: Ecology  ==(inprogress)==
+- [x] Watch DATBooster’s Biology Videos: Ecology  ==(inprogress)==
 - [ ] ~~Read Feralis-Booster Notes Ch 6. Evolution, Ecology, and Behavior (Pages 25-47) in detail and memorize only key concepts – After reviewing this chapter, try to review everything up until this point again.~~    
 - [ ] ~~Start using DATBooster’s Anki Decks or Quizlet flashcards to reinforce your knowledge of all Biology concepts if you have not already done so.~~ 
 - [ ] ~~Read DATBooster’s Organic Chemistry Notes: Ch 12. Free Radical and Diels Alder Cycloaddition Reactions~~  
