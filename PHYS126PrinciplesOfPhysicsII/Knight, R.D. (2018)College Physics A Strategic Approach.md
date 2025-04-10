@@ -523,6 +523,7 @@ Then [[Kirchoff's Loop Law]] states that the sum of the voltages should equal ze
 $\epsilon-IR=0$
 
 Then you can solve accordingly.
+
 ### 23.3 Series and Parallel Circuits
 
 Two possible arrangements of components in circuits include [[Series Circuits]] and [[Parallel Circuits]].
@@ -534,7 +535,11 @@ Two possible arrangements of components in circuits include [[Series Circuits]] 
 
 $$\sum_{i}\Delta V_{i}=\epsilon+\Delta V_{1}+\Delta V_{2}=0$$
 
+"**a battery is a source of potential difference, *not* a source of current (807)**"
+"amount of current depends on resistance."
+"The amount of current depends jointly on the battery's emf and the resistance of the circuit attached to the battery"
 
+##### Parallel Resistors
 
 
 ## 2025 04 07 Review
@@ -578,4 +583,4 @@ Potential Difference does not always result in EMF
 
 
 
-### 25.4 Faraday's 
+### 25.4 Faraday's Law
