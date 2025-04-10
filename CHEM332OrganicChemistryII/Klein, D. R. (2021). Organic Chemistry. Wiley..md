@@ -1150,6 +1150,9 @@ Some nucleophiles need basic conditions or acidic
 
 [[Grignard Reagent]] are very strong [[Nucleophiles]] that attach [[Aldehydes]] and [[Ketones]] to produce [[Alcohol]]
 
+![[Pasted image 20250410122525.png]]
+
+[[Grignard Reagent]] are destroyed in acidic conditions
 
 
 
