@@ -4,6 +4,13 @@ aliases:
 course:
   - BIOL 140A
 ---
+[[Carbonyl Groups]] are [[Functional Groups]] that is made of carbon double bonded to an oxygen. It has [[Electrophile|Electrophilic]] characteristics from resonance and induction.
+
+![[Pasted image 20250410112756.png]]
+
+This is foundational reasoning for why [[Nucleophiles]] "attack between the legs."
+
+
 ![[Pasted image 20230924200420.png]]
 
 $$\ce{ :C=O }$$
@@ -13,6 +20,7 @@ $$\ce{ :C=O }$$
 	- If The Carbonyl Group was placed within a [[Carbon Skeletons|carbon skeleton]] it forms a Ketone
 	- If The Carbonyl Group was placed at the end of a [[Carbon Skeletons|carbon skeleton]] it forms a Aldehyde
 - [[Sugars]] can contain either ketones or aldehydes are called [[Ketoses]] and [[Aldoses]] respectively 
+
 
 # Examples
 
