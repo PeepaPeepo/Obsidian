@@ -1132,7 +1132,11 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 
 [[Aldehydes]] can be prepared with [[Oxidation of Primary Alcohols]], [[Ozonolysis of Alkenes]], and [[Hydroboration-Oxidation of Terminal Alkynes]].
 
-[[Ketones]] can be made via [[Oxidation of Secondary Al]]
+[[Ketones]] can be made via [[Oxidation of Secondary Alcohols]], [[Ozonolysis of Alkenes]], [[Acid-Cataylzed Hydration of Terminal Alkynes]], and [[Friedel-Crafts Acylation]].
+
+## 19.4 Introduction to Nucleophilic Addition Reactions
+
+
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
