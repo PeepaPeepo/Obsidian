@@ -1102,7 +1102,7 @@ Trying out cornell approach to note taking:
 
 [[Benzene]] is a stable molecule and is typically inert in the context of addition reactions.
 When Fe (iron) is present in the mixture, benzene can react and ends up with a singly added Br. 
-This is technically not a addition reaction, but classified as its own [[Electrophilic Aromatic Substitution]] where an aromatic proton is replaced with an [[Electrophile]].
+This is technically not a addition reaction, but classified as its own [[Electrophilic Aromatic Substitution]] where an aromatic proton is replaced with an [[Electrophiles]].
 
 ### Questions
 
@@ -1113,11 +1113,11 @@ What is [[Electrophilic Aromatic Substitution]]?
 
 ### Summary
 
-[[Benzene]], a six membered hydrocarbon ring with [[Conjugation]] present, is a molecule that doesn't readily react with halogens such as $Br_{2}$. When Fe is introduced, an [[Electrophilic Aromatic Substitution]] can occur where one of the [[Aromatic Protons]] are replaced with the [[Electrophile]].
+[[Benzene]], a six membered hydrocarbon ring with [[Conjugation]] present, is a molecule that doesn't readily react with halogens such as $Br_{2}$. When Fe is introduced, an [[Electrophilic Aromatic Substitution]] can occur where one of the [[Aromatic Protons]] are replaced with the [[Electrophiles]].
 
 ## 18.2 Halogenation
 
-[[Diatomic Elements]] such as $Br_{2}$ can function as a [[Electrophile]] when they are close to [[Nucleophiles]] such as a $\pi$ bond, the bi bond allows for temporary polarization to let it react.
+[[Diatomic Elements]] such as $Br_{2}$ can function as a [[Electrophiles]] when they are close to [[Nucleophiles]] such as a $\pi$ bond, the bi bond allows for temporary polarization to let it react.
 This isn't strong enough to occur when working with [[Benzene]].
 The presence of iron increases the electrophilicity of bromine because Fe reacts with Br2 to make Tribromide which is a better form to react with ben
 
@@ -1136,7 +1136,7 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 
 ## 19.4 Introduction to Nucleophilic Addition Reactions (889)
 
-[[Electrophile|Electrophilic]] characteristics of [[Carbonyl Groups]] is from [[Resonance Hybrids]] and [[Induction]].
+[[Electrophiles|Electrophilic]] characteristics of [[Carbonyl Groups]] is from [[Resonance Hybrids]] and [[Induction]].
 [[Nucleophiles]] 
 
 

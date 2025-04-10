@@ -4,7 +4,7 @@ aliases:
 course:
   - BIOL 140A
 ---
-[[Carbonyl Groups]] are [[Functional Groups]] that is made of carbon double bonded to an oxygen. It has [[Electrophile|Electrophilic]] characteristics from resonance and induction.
+[[Carbonyl Groups]] are [[Functional Groups]] that is made of carbon double bonded to an oxygen. It has [[Electrophiles|Electrophilic]] characteristics from resonance and induction.
 
 ![[Pasted image 20250410112756.png]]
 

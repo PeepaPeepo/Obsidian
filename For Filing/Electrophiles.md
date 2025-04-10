@@ -4,3 +4,4 @@ aliases:
   - Electrophilic
 course:
 ---
+[[Electrophiles]], $+$, love [[Electrons]], $-$.

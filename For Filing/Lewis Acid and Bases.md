@@ -7,7 +7,7 @@ course:
 
 Instead of proton transfer, [[Lewis Acid and Bases]] state that [[Acids]] and [[Bases]] act as [[Electrons]] donors or acceptors.
 
-Lewis acids accepts electron pairs, called [[Electrophile]] and have vacant orbitals. 
+Lewis acids accepts electron pairs, called [[Electrophiles]] and have vacant orbitals. 
 
 Lewis Bases donate electron pairs, called [[Nucleophiles]], while having lone pair electrons.
 

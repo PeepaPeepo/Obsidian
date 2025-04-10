@@ -10,7 +10,7 @@ tldr; Reaction mechanisms mostly are just made of four patterns, [[Nucleophilic 
 
 # Nucleophilic Attack
 
-A [[Nucleophilic Attacks]] is when a source of a negative charge attacks a positive charge and form a bond. [[Nucleophiles]] are can be anions, or double/triple bonds. Examples would include taking two electrons, either a lone pair or bonded pair from a pi bond, then linking them to a [[Electrophile]].
+A [[Nucleophilic Attacks]] is when a source of a negative charge attacks a positive charge and form a bond. [[Nucleophiles]] are can be anions, or double/triple bonds. Examples would include taking two electrons, either a lone pair or bonded pair from a pi bond, then linking them to a [[Electrophiles]].
 
 Nucleophiles do not exclusively attack visible positive partial charges, they can attack atoms that uneven sharing of electrons.
 
