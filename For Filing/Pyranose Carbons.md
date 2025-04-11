@@ -5,7 +5,7 @@ course:
 ---
 [[Pyranose Carbons]] are 6 membered [[Carbohydrates|Saccharide]] rings regardless of the number of carbons it contains as opposed to [[Hexoses]], which are 6 carbon [[Carbohydrates|Saccharides]]. 
 
-[[Hemiacetals]] forms when one of the [[Hydroxyl Groups]] reaches back to bond to the [[Electrophiles]] Carbonyl carbon.
+[[Hemiacetal]] forms when one of the [[Hydroxyl Groups]] reaches back to bond to the [[Electrophiles]] Carbonyl carbon.
 
 Pyranose and Furanose carbons are very versatile because of presence of both [[Hydroxyl Groups]] and [[Carbonyl Groups]].
 

@@ -1,0 +1,1 @@
+"Hemi-" means half in greek. So this can be interpreted as a half [[Acetal]], a product formed when a carbonyl group is reacted with 2 mols of [[Alcohol]].

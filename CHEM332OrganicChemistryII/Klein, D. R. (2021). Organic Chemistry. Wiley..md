@@ -1185,7 +1185,9 @@ In acidic conditions [[Aldehydes]] or [[Ketones]] react with two molecules of [[
 
 The book shows $\ce{ ->[{[H+]}] }$ to indicate the acid is just a catalyst for the reactions, and common used ones are [[Sulfuric Acid]], and [[p-Toluenesulfonic Acid]]
 
-Because it is an acidic condition, the oxygen is protonated so that a car
+Because it is an acidic condition, the oxygen is protonated so that a cation is formed, which is a good target for the alcohol. 
+
+[[Acetal Formation]] has a [[Hemiacetal]] formation.
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
