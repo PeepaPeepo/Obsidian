@@ -32,7 +32,7 @@ Interact with G proteins, ligand bind activates receptor and activates another p
 
 [[Protein Phosphatases]] remove the groups and regulates activity
 
-[[Secondary Messengers]] include [[cyclic AMP]] and $\ce{ Ca^2+ }$ diffuse through cytosol
+[[Second Messengers]] include [[cyclic AMP]] and $\ce{ Ca^2+ }$ diffuse through cytosol
 [[G Proteins]] activate [[Adenylyl Cyclase]] which make [[Adenosine Triphosphate|ATP]]
 
 [[Receptor Tyrosine Kinases]] use two other messengers [[Diacylglycerol]] and [[Inositol Triphosphate]] and can trigger $\ce{ Ca^2+ }$ levels
