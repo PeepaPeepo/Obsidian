@@ -1183,7 +1183,9 @@ Following the previous concept that strong bases react in to weak acids, and str
 
 In acidic conditions [[Aldehydes]] or [[Ketones]] react with two molecules of [[Alcohol]] and form an [[Acetal]]
 
-The book shows $\ce{ ->[[H+\] ] }$
+The book shows $\ce{ ->[{[H+]}] }$ to indicate the acid is just a catalyst for the reactions, and common used ones are [[Sulfuric Acid]], and [[p-Toluenesulfonic Acid]]
+
+Because it is an acidic condition, the oxygen is protonated so that a car
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
