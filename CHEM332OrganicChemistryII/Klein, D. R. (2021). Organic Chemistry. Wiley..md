@@ -1181,7 +1181,9 @@ Following the previous concept that strong bases react in to weak acids, and str
 
 ### Acetal Formation
 
+In acidic conditions [[Aldehydes]] or [[Ketones]] react with two molecules of [[Alcohol]] and form an [[Acetal]]
 
+The book shows $\ce{ ->[[H+\] ] }$
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
