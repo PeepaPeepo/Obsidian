@@ -4,7 +4,7 @@ aliases:
   - Organic Chemistry Book
 course:
 ---
-Klein, D. R. (2021). *Organic Chemistry*. Wiley.
+==Klein==, D. R. (2021). *Organic Chemistry*. Wiley.
 # A Review of General Chemistry: Electrons, Bonds, and Molecular Properties 1
 
 [[Chemical Reactions]] occur as a result of the motion of [[Electrons]]
@@ -1172,6 +1172,16 @@ Reactions can be improved with [[Acids]] or [[Bases]] to create an acid or base 
 [[Acid-Catalyzed Hydration]]
 
 Acidic environments seem to always protonate the oxygen of a ketone group.
+
+### An Important Rule for Drawing Mechanism
+
+If a reaction is in a basic condition, then there should be any strong acids present when using a strong base.
+
+Following the previous concept that strong bases react in to weak acids, and strong acids make weak bases. 
+
+### Acetal Formation
+
+
 
 # Chapter 20 Carboxylic Acids and Derivatives
 
