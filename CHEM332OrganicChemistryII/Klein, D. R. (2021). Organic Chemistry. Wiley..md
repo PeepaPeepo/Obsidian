@@ -493,122 +493,6 @@ Higher $\ce{ pK_{a} }$ values are the favored side
 ## 6.8 Mechanisms and Arrow Pushing
 
 [[Reaction Mechanisms]] shows the flow of electrons with curved arrows.
-# Lectures
-
-## 08/27/2024 Chapter 1 General Chemistry Review: Polarity of Molecules
-
-[[Dipole Moments]]
-
-$$\ce{ \mu = \delta*d }$$
-
-mu is the dipole moment of [[Debye]] D
-delta is partial charge of found in each atom
-d is distance between 2 atoms
-1 debye = 1\*10^-18 esu
-[[Polarity]] is a spectrum
-Longer distance increase polarity
-Chloromethane is banned in school because its toxicity
-
-## Chemical Bonding Atomic Orbitals
-
-[[Molecular Orbital Theory]] uses linear combination of the atomic orbitals to produce new molecular orbitals, They are not isolated to single atoms, but cover the molecule
-[[Highest Occupied Molecular Orbital]]
-	Typically Sigma Bond
-[[Lowest Unoccupied Molecular Orbital]]
-	Vacant Antibonding spaces are commly LUMOS
-[[Valence Bond Theory]] sates that uses valence electrons on each atom to form covalent bonds
-[[Hybridization]]
-[[Quantum-Mechanical Orbitals|Orbitals]]
-In phase is the same thing as [[Constructive Interference]]
-Out of phase is [[Destructive Interference]]
-[[Sigma Bonds]] is different from a single bond, it will produce the single bond but has different characteristics
-	[[Anti Bonding]]
-		Caused by destructive interference 
-	[[Sigma Bonds]]
-		Caused by constructive interference
-		**Electrons directly face each other**
-$\ce{ \sigma }$* High energy
-$\ce{ \sigma }$ Low Energy
-This would be most useful in regards to [[Resonance Structures]]
-
-[[sp3-Hybridized Orbitals]] moves 2s to an additional p degenerate orbital with a counter spin, affiliated with tetrahedral shapes. It forms $\ce{ sp^3 }$ orbitals: _ _ _ _
-[[sp2-Hybridized Orbitals]]  have three bonded groups, two of the 2p orbitals make 3 sp2's with a 2s
-Unhybridized 2p helps form double bonds
-Makes a Trigonal geometric shape
-
-[[sp-Hybridized Orbitals]]
-Hydrogen never hybridized
-$\ce{ C-H(\sigma) }$
-$\ce{ sp^3 + 1s }$ 
-
-$\ce{ C-C(\sigma) }$
-$\ce{ sp^3 + sp^3 }$
-
-[[Pi Bonds]] 
-[[Sigma Bonds]] directly touched, always uses the hybridized orbtials
-Sigma Pi bonds have the 2p orbital in 
-sp2 hybridized orbital such that they come from "-z and +z" poles
-Double bonds are stronger than single, but not doubled the strength
-
-## 08/20/2024 Lecture
-
-[[Lewis Structures]] are the most important for the class
-[[Formal Charges]], [[Resonance Structures]], [[Valence Shell Electron Pair Repulsion Theory|VSEPR]], [[Molecular Geometry]], [[Polarity]]
-90% of reactions happen in biological system
-Focus on reactions in organic chemistry
-[[Mechanism]] shows how electron move in reactions between chemicals to help break or form new bonds
-
-![[Isomers]]
-
-[[Formal Charges]] are different from [[Cations]] and [[Anions]] and can help identfiy optimal shapes and partial charges
-
-![[Expanded Octet]] 
-
-Lewis method up until step 6
-
-## 08/22/2024
-
-Molecules tend to form towards neutral charges
-Elements Periods 3 onwards can expand octets
-Resonance and formation of double bonds from one pair vs the other side
-
-[[Valence Shell Electron Pair Repulsion Theory|VSEPR]] Theory
-Best to have the VSPER Table out
-[[Lone Pairs]] vs [[Bonded Atoms]]
-[[Lone Pairs]] start to affect shape
-Lack of lone pairs do not affect molecular shape
-
-[[Bonding Angles]] are affected by [[Lone Pairs]]
-
-[[Intermolecular Forces|Intermolecular Interactions]]
-
-Having polar bonds does not always mean polar molecules
-Some have symmetrical inductions that cancel each other out
-
-## 08/29/2024 Lecture
-
-[[Intermolecular Forces]]
-Boiling/Melting points are indicators of strength in IMF
-IMF is electrostatic in nature
-[[London Dispersion Forces|Dispersion Forces]]
-	Result of quantum fluctuation in electron position
-	Temporary dipoles
-	Large mass (more electrons) leads to higher dispersion force
-	Branched molecules have lower boiling points
-	[[Hydrocarbons]] are oil
-	Much less surface area when branched isomers occur
-[[Dipole Moments]] 
-	Permanently unequal electron distribution
-[[Hydrogen Bonds]]
-	Requires Hydrogen bonded to O, N, or F
-[[Gravity]] is the weakest force
-
-Cyanide out powers oxygen in active site connect
-Similar polarity attract each other, the closer the match the better
-Samples include phospholipids
-
-[[Heteroatoms]] are atoms other than carbon and hydrogen
-
 # Chapter 6 Chemical Reactivity and Mechanisms 
 
 234. Electrons in bonding molecular orbital are in a lower energy state
@@ -1123,72 +1007,6 @@ The presence of iron increases the electrophilicity of bromine because Fe reacts
 
 # 19 Aldehydes and Ketones
 
-## 19.1 Introduction to Aldehydes
-
-[[Carbonyl Groups]] can either make [[Ketones]] or [[Aldehydes]].
-[[Carbonyl Groups]] are very common in [[Biomolecules]] like [[Progesterone]] and [[Testosterone]]
-
-## 19.3 Preparing Aldehydes and Ketones: A Review
-
-[[Aldehydes]] can be prepared with [[Oxidation of Primary Alcohols]], [[Ozonolysis of Alkenes]], and [[Hydroboration-Oxidation of Terminal Alkynes]].
-
-[[Ketones]] can be made via [[Oxidation of Secondary Alcohols]], [[Ozonolysis of Alkenes]], [[Acid-Cataylzed Hydration of Terminal Alkynes]], and [[Friedel-Crafts Acylation]].
-
-## 19.4 Introduction to Nucleophilic Addition Reactions (889)
-
-[[Electrophiles|Electrophilic]] characteristics of [[Carbonyl Groups]] is from [[Resonance Hybrids]] and [[Induction]].
-[[Nucleophiles]] are negatively charged, partial or full.
-[[Electrophiles]] are positively charged, mostly from induction, resonance, or [[Carbocations]]
-
-[[Nucleophilic Attacks]] on [[Carbonyl Groups]] results in [[sp3-Hybridized Orbitals]].
-
-[[Aldehydes]] are more reactive with [[Nucleophilic Attacks]] due to steric effects, and electronic effects. 
-
-The uneven donation from R group results in instability.
-
-Some nucleophiles need basic conditions or acidic 
-
-[[Grignard Reagent]] are very strong [[Nucleophiles]] that attach [[Aldehydes]] and [[Ketones]] to produce [[Alcohol]]
-
-![[Pasted image 20250410122525.png]]
-
-[[Grignard Reagent]] are destroyed in acidic conditions
-[[Nucleophilic Addition Under Basic Conditions]] 
-[[Nucleophilic Addition Under Acidic Conditions]]
-Equilibrium of a nucleophile depends on capabilities as acting as a [[Leaving Group]]
-
-## 19.5 Oxygen Nucleophiles (892)
-
-### Hydrate Formation
-
-[[Hydrate]] is produced when [[Aldehydes]] or [[Ketones]] react with [[Weak Nucleophiles]], specifically water. 
-
-Ketones are favored when introducing water
-but hydrates are favored with reacting with [[Aldehydes]]
-
-Reactions can be improved with [[Acids]] or [[Bases]] to create an acid or base catalyzed reaction.
-
-[[Base-Catalyzed Hydration]]
-[[Acid-Catalyzed Hydration]]
-
-Acidic environments seem to always protonate the oxygen of a ketone group.
-
-### An Important Rule for Drawing Mechanism
-
-If a reaction is in a basic condition, then there should be any strong acids present when using a strong base.
-
-Following the previous concept that strong bases react in to weak acids, and strong acids make weak bases. 
-
-### Acetal Formation
-
-In acidic conditions [[Aldehydes]] or [[Ketones]] react with two molecules of [[Alcohol]] and form an [[Acetal]]
-
-The book shows $\ce{ ->[{[H+]}] }$ to indicate the acid is just a catalyst for the reactions, and common used ones are [[Sulfuric Acid]], and [[p-Toluenesulfonic Acid]]
-
-Because it is an acidic condition, the oxygen is protonated so that a cation is formed, which is a good target for the alcohol. 
-
-[[Acetal Formation]] has a [[Hemiacetal]] formation.
-
 # Chapter 20 Carboxylic Acids and Derivatives
 
 
@@ -1271,3 +1089,186 @@ Review how to make [[Grignard Reagent]]
 [[Reaction Mechanisms]] 
 ==Anhydride with acid keeps reacting==
 ==Grignard Reaection keeps going==
+
+# Lectures
+
+## 08/27/2024 Chapter 1 General Chemistry Review: Polarity of Molecules
+
+[[Dipole Moments]]
+
+$$\ce{ \mu = \delta*d }$$
+
+mu is the dipole moment of [[Debye]] D
+delta is partial charge of found in each atom
+d is distance between 2 atoms
+1 debye = 1\*10^-18 esu
+[[Polarity]] is a spectrum
+Longer distance increase polarity
+Chloromethane is banned in school because its toxicity
+
+## Chemical Bonding Atomic Orbitals
+
+[[Molecular Orbital Theory]] uses linear combination of the atomic orbitals to produce new molecular orbitals, They are not isolated to single atoms, but cover the molecule
+[[Highest Occupied Molecular Orbital]]
+	Typically Sigma Bond
+[[Lowest Unoccupied Molecular Orbital]]
+	Vacant Antibonding spaces are commly LUMOS
+[[Valence Bond Theory]] sates that uses valence electrons on each atom to form covalent bonds
+[[Hybridization]]
+[[Quantum-Mechanical Orbitals|Orbitals]]
+In phase is the same thing as [[Constructive Interference]]
+Out of phase is [[Destructive Interference]]
+[[Sigma Bonds]] is different from a single bond, it will produce the single bond but has different characteristics
+	[[Anti Bonding]]
+		Caused by destructive interference 
+	[[Sigma Bonds]]
+		Caused by constructive interference
+		**Electrons directly face each other**
+$\ce{ \sigma }$* High energy
+$\ce{ \sigma }$ Low Energy
+This would be most useful in regards to [[Resonance Structures]]
+
+[[sp3-Hybridized Orbitals]] moves 2s to an additional p degenerate orbital with a counter spin, affiliated with tetrahedral shapes. It forms $\ce{ sp^3 }$ orbitals: _ _ _ _
+[[sp2-Hybridized Orbitals]]  have three bonded groups, two of the 2p orbitals make 3 sp2's with a 2s
+Unhybridized 2p helps form double bonds
+Makes a Trigonal geometric shape
+
+[[sp-Hybridized Orbitals]]
+Hydrogen never hybridized
+$\ce{ C-H(\sigma) }$
+$\ce{ sp^3 + 1s }$ 
+
+$\ce{ C-C(\sigma) }$
+$\ce{ sp^3 + sp^3 }$
+
+[[Pi Bonds]] 
+[[Sigma Bonds]] directly touched, always uses the hybridized orbtials
+Sigma Pi bonds have the 2p orbital in 
+sp2 hybridized orbital such that they come from "-z and +z" poles
+Double bonds are stronger than single, but not doubled the strength
+
+## 08/20/2024 Lecture
+
+[[Lewis Structures]] are the most important for the class
+[[Formal Charges]], [[Resonance Structures]], [[Valence Shell Electron Pair Repulsion Theory|VSEPR]], [[Molecular Geometry]], [[Polarity]]
+90% of reactions happen in biological system
+Focus on reactions in organic chemistry
+[[Mechanism]] shows how electron move in reactions between chemicals to help break or form new bonds
+
+![[Isomers]]
+
+[[Formal Charges]] are different from [[Cations]] and [[Anions]] and can help identfiy optimal shapes and partial charges
+
+![[Expanded Octet]] 
+
+Lewis method up until step 6
+
+## 08/22/2024
+
+Molecules tend to form towards neutral charges
+Elements Periods 3 onwards can expand octets
+Resonance and formation of double bonds from one pair vs the other side
+
+[[Valence Shell Electron Pair Repulsion Theory|VSEPR]] Theory
+Best to have the VSPER Table out
+[[Lone Pairs]] vs [[Bonded Atoms]]
+[[Lone Pairs]] start to affect shape
+Lack of lone pairs do not affect molecular shape
+
+[[Bonding Angles]] are affected by [[Lone Pairs]]
+
+[[Intermolecular Forces|Intermolecular Interactions]]
+
+Having polar bonds does not always mean polar molecules
+Some have symmetrical inductions that cancel each other out
+
+## 08/29/2024 Lecture
+
+[[Intermolecular Forces]]
+Boiling/Melting points are indicators of strength in IMF
+IMF is electrostatic in nature
+[[London Dispersion Forces|Dispersion Forces]]
+	Result of quantum fluctuation in electron position
+	Temporary dipoles
+	Large mass (more electrons) leads to higher dispersion force
+	Branched molecules have lower boiling points
+	[[Hydrocarbons]] are oil
+	Much less surface area when branched isomers occur
+[[Dipole Moments]] 
+	Permanently unequal electron distribution
+[[Hydrogen Bonds]]
+	Requires Hydrogen bonded to O, N, or F
+[[Gravity]] is the weakest force
+
+Cyanide out powers oxygen in active site connect
+Similar polarity attract each other, the closer the match the better
+Samples include phospholipids
+
+[[Heteroatoms]] are atoms other than carbon and hydrogen
+
+## 19.1 Introduction to Aldehydes
+
+[[Carbonyl Groups]] can either make [[Ketones]] or [[Aldehydes]].
+[[Carbonyl Groups]] are very common in [[Biomolecules]] like [[Progesterone]] and [[Testosterone]]
+
+## 19.3 Preparing Aldehydes and Ketones: A Review
+
+[[Aldehydes]] can be prepared with [[Oxidation of Primary Alcohols]], [[Ozonolysis of Alkenes]], and [[Hydroboration-Oxidation of Terminal Alkynes]].
+
+[[Ketones]] can be made via [[Oxidation of Secondary Alcohols]], [[Ozonolysis of Alkenes]], [[Acid-Cataylzed Hydration of Terminal Alkynes]], and [[Friedel-Crafts Acylation]].
+
+## 19.4 Introduction to Nucleophilic Addition Reactions (889)
+
+[[Electrophiles|Electrophilic]] characteristics of [[Carbonyl Groups]] is from [[Resonance Hybrids]] and [[Induction]].
+[[Nucleophiles]] are negatively charged, partial or full.
+[[Electrophiles]] are positively charged, mostly from induction, resonance, or [[Carbocations]]
+
+[[Nucleophilic Attacks]] on [[Carbonyl Groups]] results in [[sp3-Hybridized Orbitals]].
+
+[[Aldehydes]] are more reactive with [[Nucleophilic Attacks]] due to steric effects, and electronic effects. 
+
+The uneven donation from R group results in instability.
+
+Some nucleophiles need basic conditions or acidic 
+
+[[Grignard Reagent]] are very strong [[Nucleophiles]] that attach [[Aldehydes]] and [[Ketones]] to produce [[Alcohol]]
+
+![[Pasted image 20250410122525.png]]
+
+[[Grignard Reagent]] are destroyed in acidic conditions
+[[Nucleophilic Addition Under Basic Conditions]] 
+[[Nucleophilic Addition Under Acidic Conditions]]
+Equilibrium of a nucleophile depends on capabilities as acting as a [[Leaving Group]]
+
+## 19.5 Oxygen Nucleophiles (892)
+
+### Hydrate Formation
+
+[[Hydrate]] is produced when [[Aldehydes]] or [[Ketones]] react with [[Weak Nucleophiles]], specifically water. 
+
+Ketones are favored when introducing water
+but hydrates are favored with reacting with [[Aldehydes]]
+
+Reactions can be improved with [[Acids]] or [[Bases]] to create an acid or base catalyzed reaction.
+
+[[Base-Catalyzed Hydration]]
+[[Acid-Catalyzed Hydration]]
+
+Acidic environments seem to always protonate the oxygen of a ketone group.
+
+### An Important Rule for Drawing Mechanism
+
+If a reaction is in a basic condition, then there should be any strong acids present when using a strong base.
+
+Following the previous concept that strong bases react in to weak acids, and strong acids make weak bases. 
+
+### Acetal Formation
+
+In acidic conditions [[Aldehydes]] or [[Ketones]] react with two molecules of [[Alcohol]] and form an [[Acetal]]
+
+The book shows $\ce{ ->[{[H+]}] }$ to indicate the acid is just a catalyst for the reactions, and common used ones are [[Sulfuric Acid]], and [[p-Toluenesulfonic Acid]]
+
+Because it is an acidic condition, the oxygen is protonated so that a cation is formed, which is a good target for the alcohol. 
+
+[[Acetal Formation]] has a [[Hemiacetal]] formation.
+
